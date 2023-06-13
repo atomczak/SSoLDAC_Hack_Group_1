@@ -1,0 +1,269 @@
+@prefix bsdd: <http://bsdd.buildingsmart.org/def#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf4j: <http://rdf4j.org/schema/rdf4j#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25> bsdd:code
+    "Pr_25";
+  bsdd:name "Skin products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96> bsdd:code
+    "Pr_25_96";
+  bsdd:name "Grid and grating skin products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80> bsdd:code
+    "Pr_25_80";
+  bsdd:name "Smoke and fire control products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93> bsdd:code
+    "Pr_25_93";
+  bsdd:name "Unit skin products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57> bsdd:code
+    "Pr_25_57";
+  bsdd:name "Non-rigid sheet, mat and strip skin products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31> bsdd:code
+    "Pr_25_31";
+  bsdd:name "Formless skin products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71> bsdd:code
+    "Pr_25_71";
+  bsdd:name "Rigid board, panel and sheet products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30> bsdd:code
+    "Pr_25_30";
+  bsdd:name "Fixed access products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35> bsdd:code
+    "Pr_25_96_35";
+  bsdd:name "Grids and grilles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30> bsdd:code
+    "Pr_25_96_30";
+  bsdd:name "Gratings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79> bsdd:code
+    "Pr_25_80_79";
+  bsdd:name "Smoke and fire barriers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81> bsdd:code
+    "Pr_25_80_81";
+  bsdd:name "Smoke and fire stopping" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80> bsdd:code
+    "Pr_25_80_80";
+  bsdd:name "Smoke and fire cavity barriers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54> bsdd:code
+    "Pr_25_93_54";
+  bsdd:name "Metal capping and coping units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52> bsdd:code
+    "Pr_25_93_52";
+  bsdd:name "Masonry openings units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51> bsdd:code
+    "Pr_25_93_51";
+  bsdd:name "Masonry dressing units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50> bsdd:code
+    "Pr_25_93_50";
+  bsdd:name "Masonry capping and coping units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47> bsdd:code
+    "Pr_25_93_47";
+  bsdd:name "Level crossing surfacing products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45> bsdd:code
+    "Pr_25_93_45";
+  bsdd:name "Kerb units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60> bsdd:code
+    "Pr_25_93_60";
+  bsdd:name "Paving units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72> bsdd:code
+    "Pr_25_93_72";
+  bsdd:name "Roofing and cladding units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55> bsdd:code
+    "Pr_25_93_55";
+  bsdd:name "Metal sills" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70> bsdd:code
+    "Pr_25_93_70";
+  bsdd:name "Rail track paving" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51> bsdd:code
+    "Pr_25_57_51";
+  bsdd:name "Membranes, liners, flexible sheets and fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06> bsdd:code
+    "Pr_25_57_06";
+  bsdd:name "Batt and quilt products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21> bsdd:code
+    "Pr_25_57_21";
+  bsdd:name "Damp-proof courses and cavity trays" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90> bsdd:code
+    "Pr_25_57_90";
+  bsdd:name "Tensile, stretch and suspended fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61> bsdd:code
+    "Pr_25_57_61";
+  bsdd:name "Plant fibre-based membranes, liners, flexible sheet and fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56> bsdd:code
+    "Pr_25_57_56";
+  bsdd:name "Netting and non-reinforcement mesh" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85> bsdd:code
+    "Pr_25_57_85";
+  bsdd:name "Synthetic filter fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10> bsdd:code
+    "Pr_25_57_10";
+  bsdd:name "Building papers and vapour permeable sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65> bsdd:code
+    "Pr_25_57_65";
+  bsdd:name "Plastics membranes" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53> bsdd:code
+    "Pr_25_57_53";
+  bsdd:name "Moisture retention sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08> bsdd:code
+    "Pr_25_57_08";
+  bsdd:name "Bitumen-based membranes, sheets and fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48> bsdd:code
+    "Pr_25_31_48";
+  bsdd:name "Loose insulation" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28> bsdd:code
+    "Pr_25_31_28";
+  bsdd:name "Expanding foams" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97> bsdd:code
+    "Pr_25_71_97";
+  bsdd:name "Wood-based boards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94> bsdd:code
+    "Pr_25_71_94";
+  bsdd:name "Veneers and facings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53> bsdd:code
+    "Pr_25_71_53";
+  bsdd:name "Mirrors" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52> bsdd:code
+    "Pr_25_71_52";
+  bsdd:name "Mineral-based boards and sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51> bsdd:code
+    "Pr_25_71_51";
+  bsdd:name "Metal sheets and strips" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50> bsdd:code
+    "Pr_25_71_50";
+  bsdd:name "Metal panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63> bsdd:code
+    "Pr_25_71_63";
+  bsdd:name "Plastics-based boards and sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33> bsdd:code
+    "Pr_25_71_33";
+  bsdd:name "Glass and glazing sheets and profiles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57> bsdd:code
+    "Pr_25_71_57";
+  bsdd:name "Non-metal barrier panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29> bsdd:code
+    "Pr_25_71_29";
+  bsdd:name "Falsework and formwork" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44> bsdd:code
+    "Pr_25_71_44";
+  bsdd:name "Joint fillers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14> bsdd:code
+    "Pr_25_71_14";
+  bsdd:name "Cladding and lining panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43> bsdd:code
+    "Pr_25_71_43";
+  bsdd:name "Interior linings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42> bsdd:code
+    "Pr_25_71_42";
+  bsdd:name "Infill panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30> bsdd:code
+    "Pr_25_30_30";
+  bsdd:name "Floor plates, gratings and edgings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85> bsdd:code
+    "Pr_25_30_85";
+  bsdd:name "Stair and ladder units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36> bsdd:code
+    "Pr_25_30_36";
+  bsdd:name "Handrails" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75> bsdd:code
+    "Pr_25_30_75";
+  bsdd:name "Safety cages" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90> bsdd:code
+    "Pr_25_30_90";
+  bsdd:name "Treads and landing units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86> bsdd:code
+    "Pr_25_30_86";
+  bsdd:name "Surface level traffic control products" .

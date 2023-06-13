@@ -1,0 +1,604 @@
+@prefix bsdd: <http://bsdd.buildingsmart.org/def#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf4j: <http://rdf4j.org/schema/rdf4j#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70> bsdd:code
+    "Pr_70";
+  bsdd:name "Services and process outlet products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75> bsdd:code
+    "Pr_70_75";
+  bsdd:name "Communications products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_04>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_01>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_36>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_06> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60> bsdd:code
+    "Pr_70_60";
+  bsdd:name "Space heating and cooling products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_82>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_37>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_36>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_60>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_14> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55> bsdd:code
+    "Pr_70_55";
+  bsdd:name "Liquid and gas outlet products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_76>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_33>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_62>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_58>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_98>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_42>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_97>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_96> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70> bsdd:code
+    "Pr_70_70";
+  bsdd:name "Power and lighting outlet products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_48>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_47>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_46>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_70> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65> bsdd:code
+    "Pr_70_65";
+  bsdd:name "Air and fume outlet products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_04>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_03>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_30> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50> bsdd:code
+    "Pr_70_50";
+  bsdd:name "Solid waste disposal products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_71>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_85>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_80> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_04> bsdd:code
+    "Pr_70_75_04";
+  bsdd:name "Audio, data and visual outlet plates and controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88> bsdd:code
+    "Pr_70_75_88";
+  bsdd:name "Telecoms equipment";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_22>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_21>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_89>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_03>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_87>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_86>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_01>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_83>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_27>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_24> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72> bsdd:code
+    "Pr_70_75_72";
+  bsdd:name "Road traffic and pedestrian control signals";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_94>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_53>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_49>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_48>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_07>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_22>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_92>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_50>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_89>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_87>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_61>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_01>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_30>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_99>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_98>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_54>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_95>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_80> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_01> bsdd:code
+    "Pr_70_75_01";
+  bsdd:name "Aeronautical lighting products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69> bsdd:code
+    "Pr_70_75_69";
+  bsdd:name "Radio communications products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69_70> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70> bsdd:code
+    "Pr_70_75_70";
+  bsdd:name "Rail signals, indicators and controls";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_90>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_44>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_70>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_78>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_77>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_65>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_64>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_89>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_63>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_47>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_62>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_76>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_91>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_61>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_06>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_03>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_07>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_14>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_05>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_41> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80> bsdd:code
+    "Pr_70_75_80";
+  bsdd:name "Sports timing and scoring equipment";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_85>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_84>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_83>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_82>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_48>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_50>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_46>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_27> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94> bsdd:code
+    "Pr_70_75_94";
+  bsdd:name "Visual and audible indicators";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_58>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_46>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_29>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_99>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_73>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_28>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_27>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_42>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_40>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_78> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52> bsdd:code
+    "Pr_70_75_52";
+  bsdd:name "Computer network products";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_92> .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_36> bsdd:code
+    "Pr_70_75_36";
+  bsdd:name "Hearing and assisted listening products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_06> bsdd:code
+    "Pr_70_75_06";
+  bsdd:name "Audio output devices" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_82> bsdd:code
+    "Pr_70_60_82";
+  bsdd:name "Space heating fittings and equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_37> bsdd:code
+    "Pr_70_60_37";
+  bsdd:name "Heat pumps" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_36> bsdd:code
+    "Pr_70_60_36";
+  bsdd:name "Heat emitters" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_60> bsdd:code
+    "Pr_70_60_60";
+  bsdd:name "Pavement heating products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_14> bsdd:code
+    "Pr_70_60_14";
+  bsdd:name "Climatic beams and ceilings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_51> bsdd:code
+    "Pr_70_55_51";
+  bsdd:name "Medical gases outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_76> bsdd:code
+    "Pr_70_55_76";
+  bsdd:name "Sewage treatment plant" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_33> bsdd:code
+    "Pr_70_55_33";
+  bsdd:name "Gas and foam nozzles and sprinklers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_62> bsdd:code
+    "Pr_70_55_62";
+  bsdd:name "Phase change outlet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_58> bsdd:code
+    "Pr_70_55_58";
+  bsdd:name "Oil and grease lubricant supply products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_98> bsdd:code
+    "Pr_70_55_98";
+  bsdd:name "Water inlets and outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_42> bsdd:code
+    "Pr_70_55_42";
+  bsdd:name "Irrigation water outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_97> bsdd:code
+    "Pr_70_55_97";
+  bsdd:name "Water fire extinguishing outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_96> bsdd:code
+    "Pr_70_55_96";
+  bsdd:name "Waste water outlets and plugs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_48> bsdd:code
+    "Pr_70_70_48";
+  bsdd:name "Luminaires, lighting track and lighting accessories" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_47> bsdd:code
+    "Pr_70_70_47";
+  bsdd:name "Lighting controls and lighting distribution products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_46> bsdd:code
+    "Pr_70_70_46";
+  bsdd:name "Lamps" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_70> bsdd:code
+    "Pr_70_70_70";
+  bsdd:name "Rail power products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_04> bsdd:code
+    "Pr_70_65_04";
+  bsdd:name "Air terminals and diffusers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_03> bsdd:code
+    "Pr_70_65_03";
+  bsdd:name "Air conditioning units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_30> bsdd:code
+    "Pr_70_65_30";
+  bsdd:name "Flues and chimneys" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_71> bsdd:code
+    "Pr_70_50_71";
+  bsdd:name "Refuse disposal equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_85> bsdd:code
+    "Pr_70_50_85";
+  bsdd:name "Solid waste compactor products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_80> bsdd:code
+    "Pr_70_50_80";
+  bsdd:name "Solid waste balers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_22>
+  bsdd:code "Pr_70_75_88_22";
+  bsdd:name "Digital enhanced cordless telecommunications (DECT) telephone handsets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_21>
+  bsdd:code "Pr_70_75_88_21";
+  bsdd:name "Data and telecom transient overvoltage surge suppression devices" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_89>
+  bsdd:code "Pr_70_75_88_89";
+  bsdd:name "Telephone operator consoles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_03>
+  bsdd:code "Pr_70_75_88_03";
+  bsdd:name "Analogue telephone handsets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_87>
+  bsdd:code "Pr_70_75_88_87";
+  bsdd:name "Telephone extension ringers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_86>
+  bsdd:code "Pr_70_75_88_86";
+  bsdd:name "Telephone distribution frames" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_60>
+  bsdd:code "Pr_70_75_88_60";
+  bsdd:name "Payphones" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_01>
+  bsdd:code "Pr_70_75_88_01";
+  bsdd:name "Acoustic hoods" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_83>
+  bsdd:code "Pr_70_75_88_83";
+  bsdd:name "Telecommunications system controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_27>
+  bsdd:code "Pr_70_75_88_27";
+  bsdd:name "Emergency roadside telephones" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_24>
+  bsdd:code "Pr_70_75_88_24";
+  bsdd:name "Digital terminals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_94>
+  bsdd:code "Pr_70_75_72_94";
+  bsdd:name "Variable message traffic signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_53>
+  bsdd:code "Pr_70_75_72_53";
+  bsdd:name "Motorway signal mark 3" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_49>
+  bsdd:code "Pr_70_75_72_49";
+  bsdd:name "Mass detectors" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_48>
+  bsdd:code "Pr_70_75_72_48";
+  bsdd:name "Level crossing signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_07>
+  bsdd:code "Pr_70_75_72_07";
+  bsdd:name "Belisha beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_22>
+  bsdd:code "Pr_70_75_72_22";
+  bsdd:name "Detector loops" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_92>
+  bsdd:code "Pr_70_75_72_92";
+  bsdd:name "Urban traffic management signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_51>
+  bsdd:code "Pr_70_75_72_51";
+  bsdd:name "Motorway signal mark 1" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_50>
+  bsdd:code "Pr_70_75_72_50";
+  bsdd:name "Motorway lane signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_89>
+  bsdd:code "Pr_70_75_72_89";
+  bsdd:name "Transilluminated traffic bollards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_87>
+  bsdd:code "Pr_70_75_72_87";
+  bsdd:name "Traffic signal controller units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_61>
+  bsdd:code "Pr_70_75_72_61";
+  bsdd:name "Pedestrian crossing signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_60>
+  bsdd:code "Pr_70_75_72_60";
+  bsdd:name "Pedestrian signal controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_01>
+  bsdd:code "Pr_70_75_72_01";
+  bsdd:name "Above-ground vehicle detection products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_30>
+  bsdd:code "Pr_70_75_72_30";
+  bsdd:name "Fixed vertical road traffic signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_99>
+  bsdd:code "Pr_70_75_72_99";
+  bsdd:name "Wigwag signal control units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_98>
+  bsdd:code "Pr_70_75_72_98";
+  bsdd:name "Wigwag signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_54>
+  bsdd:code "Pr_70_75_72_54";
+  bsdd:name "Motorway signal mark 4" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_96>
+  bsdd:code "Pr_70_75_72_96";
+  bsdd:name "Vehicular traffic signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_95>
+  bsdd:code "Pr_70_75_72_95";
+  bsdd:name "Vehicle-activated signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_80>
+  bsdd:code "Pr_70_75_72_80";
+  bsdd:name "Solar-powered illuminated bollards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69_70>
+  bsdd:code "Pr_70_75_69_70";
+  bsdd:name "Radio base stations" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_90>
+  bsdd:code "Pr_70_75_70_90";
+  bsdd:name "Train protection warning signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_60>
+  bsdd:code "Pr_70_75_70_60";
+  bsdd:name "Platform repeaters" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_44>
+  bsdd:code "Pr_70_75_70_44";
+  bsdd:name "Junction indicators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_72>
+  bsdd:code "Pr_70_75_70_72";
+  bsdd:name "Route indicators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_70>
+  bsdd:code "Pr_70_75_70_70";
+  bsdd:name "Rail gap indicator signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_78>
+  bsdd:code "Pr_70_75_70_78";
+  bsdd:name "Semaphore subsidiary signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_77>
+  bsdd:code "Pr_70_75_70_77";
+  bsdd:name "Semaphore signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_65>
+  bsdd:code "Pr_70_75_70_65";
+  bsdd:name "Possession limit boards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_80>
+  bsdd:code "Pr_70_75_70_80";
+  bsdd:name "Signalling relays" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_64>
+  bsdd:code "Pr_70_75_70_64";
+  bsdd:name "Position light signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_89>
+  bsdd:code "Pr_70_75_70_89";
+  bsdd:name "Track circuits" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_63>
+  bsdd:code "Pr_70_75_70_63";
+  bsdd:name "Points operating equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_47>
+  bsdd:code "Pr_70_75_70_47";
+  bsdd:name "Limit of shunt signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_62>
+  bsdd:code "Pr_70_75_70_62";
+  bsdd:name "Points converter devices" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_76>
+  bsdd:code "Pr_70_75_70_76";
+  bsdd:name "Semaphore disc signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_91>
+  bsdd:code "Pr_70_75_70_91";
+  bsdd:name "Treadles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_61>
+  bsdd:code "Pr_70_75_70_61";
+  bsdd:name "Points detection equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_06>
+  bsdd:code "Pr_70_75_70_06";
+  bsdd:name "Banner repeater signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_03>
+  bsdd:code "Pr_70_75_70_03";
+  bsdd:name "Automatic warning signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_07>
+  bsdd:code "Pr_70_75_70_07";
+  bsdd:name "Balises" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_14>
+  bsdd:code "Pr_70_75_70_14";
+  bsdd:name "Colour light signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_05>
+  bsdd:code "Pr_70_75_70_05";
+  bsdd:name "Axle counters" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_41>
+  bsdd:code "Pr_70_75_70_41";
+  bsdd:name "In-cab signalling displays" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_85>
+  bsdd:code "Pr_70_75_80_85";
+  bsdd:name "Swimming timing controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_84>
+  bsdd:code "Pr_70_75_80_84";
+  bsdd:name "Swimming race start sound generators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_83>
+  bsdd:code "Pr_70_75_80_83";
+  bsdd:name "Swimmers' touch pads" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_82>
+  bsdd:code "Pr_70_75_80_82";
+  bsdd:name "Swimmers' starting blocks" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_48>
+  bsdd:code "Pr_70_75_80_48";
+  bsdd:name "Lane manual push-buttons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_50>
+  bsdd:code "Pr_70_75_80_50";
+  bsdd:name "Manual scoreboards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_46>
+  bsdd:code "Pr_70_75_80_46";
+  bsdd:name "Lane boxes" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_72>
+  bsdd:code "Pr_70_75_80_72";
+  bsdd:name "Relay race break sensors" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_27>
+  bsdd:code "Pr_70_75_80_27";
+  bsdd:name "Electronic scoreboards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_80>
+  bsdd:code "Pr_70_75_94_80";
+  bsdd:name "Static filament warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_58>
+  bsdd:code "Pr_70_75_94_58";
+  bsdd:name "Overdoor indicator units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_46>
+  bsdd:code "Pr_70_75_94_46";
+  bsdd:name "LED warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_60>
+  bsdd:code "Pr_70_75_94_60";
+  bsdd:name "Panel mounting indicator lights" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_29>
+  bsdd:code "Pr_70_75_94_29";
+  bsdd:name "Flashing filament warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_99>
+  bsdd:code "Pr_70_75_94_99";
+  bsdd:name "Xenon warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_73>
+  bsdd:code "Pr_70_75_94_73";
+  bsdd:name "Rotating warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_28>
+  bsdd:code "Pr_70_75_94_28";
+  bsdd:name "Electronic sounders" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_27>
+  bsdd:code "Pr_70_75_94_27";
+  bsdd:name "Electric doorbells" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_42>
+  bsdd:code "Pr_70_75_94_42";
+  bsdd:name "Industrial bells" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_40>
+  bsdd:code "Pr_70_75_94_40";
+  bsdd:name "Indicator lights" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_78>
+  bsdd:code "Pr_70_75_94_78";
+  bsdd:name "Starting strobe lights" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_72>
+  bsdd:code "Pr_70_75_52_72";
+  bsdd:name "Routers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_96>
+  bsdd:code "Pr_70_75_52_96";
+  bsdd:name "Wireless sensor nodes" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_92>
+  bsdd:code "Pr_70_75_52_92";
+  bsdd:name "USB gateway modems" .

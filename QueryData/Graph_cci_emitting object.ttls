@@ -1,0 +1,275 @@
+@prefix bsdd: <http://bsdd.buildingsmart.org/def#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf4j: <http://rdf4j.org/schema/rdf4j#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/ceco> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__> bsdd:code
+    "L-E__";
+  bsdd:name "Emitting object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EE_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EV_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EB_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EP_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EM_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EC_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ET_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQ_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EG_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EU_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EA_> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EE_> bsdd:code
+    "L-EE_";
+  bsdd:name "Wireless power object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EED>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEA> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EV_> bsdd:code
+    "L-EV_";
+  bsdd:name "Acoustic wave emitting object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVA> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EB_> bsdd:code
+    "L-EB_";
+  bsdd:name "Electric heating object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBG>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBF>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBH> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EP_> bsdd:code
+    "L-EP_";
+  bsdd:name "Thermal heating object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPA> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EM_> bsdd:code
+    "L-EM_";
+  bsdd:name "Combustion heating object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMB> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EC_> bsdd:code
+    "L-EC_";
+  bsdd:name "Electric cooling object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECB> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ET_> bsdd:code
+    "L-ET_";
+  bsdd:name "Nuclear powered heating object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETB> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQ_> bsdd:code
+    "L-EQ_";
+  bsdd:name "Thermal cooling object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQB> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EG_> bsdd:code
+    "L-EG_";
+  bsdd:name "Thermal energy transfer object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGC> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EU_> bsdd:code
+    "L-EU_";
+  bsdd:name "Particle emitting object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUA> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EA_> bsdd:code
+    "L-EA_";
+  bsdd:name "Light object";
+  bsdd:childClassification <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAA> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEE> bsdd:code
+    "L-EEE";
+  bsdd:name "Capacitive coupler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EED> bsdd:code
+    "L-EED";
+  bsdd:name "Gamma ray source" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEC> bsdd:code
+    "L-EEC";
+  bsdd:name "X-ray source" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEB> bsdd:code
+    "L-EEB";
+  bsdd:name "Magnetron" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEA> bsdd:code
+    "L-EEA";
+  bsdd:name "Inductive power antenna" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVB> bsdd:code
+    "L-EVB";
+  bsdd:name "Anti-noise loudspeaker" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVA> bsdd:code
+    "L-EVA";
+  bsdd:name "Sonar" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBG> bsdd:code
+    "L-EBG";
+  bsdd:name "Infrared heater" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBF> bsdd:code
+    "L-EBF";
+  bsdd:name "Induction heater" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBE> bsdd:code
+    "L-EBE";
+  bsdd:name "Arc heating object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBD> bsdd:code
+    "L-EBD";
+  bsdd:name "Electric hot air blower" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBC> bsdd:code
+    "L-EBC";
+  bsdd:name "Heating cable" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBB> bsdd:code
+    "L-EBB";
+  bsdd:name "Electric heating surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBA> bsdd:code
+    "L-EBA";
+  bsdd:name "Electric boiler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBH> bsdd:code
+    "L-EBH";
+  bsdd:name "Electric oven" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPD> bsdd:code
+    "L-EPD";
+  bsdd:name "Hot air blower" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPC> bsdd:code
+    "L-EPC";
+  bsdd:name "Heating panel" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPB> bsdd:code
+    "L-EPB";
+  bsdd:name "Heating tube" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPA> bsdd:code
+    "L-EPA";
+  bsdd:name "Heating surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMA> bsdd:code
+    "L-EMA";
+  bsdd:name "Stove" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMC> bsdd:code
+    "L-EMC";
+  bsdd:name "Burner" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMB> bsdd:code
+    "L-EMB";
+  bsdd:name "Combustion boiler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECA> bsdd:code
+    "L-ECA";
+  bsdd:name "Electric cooling surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECC> bsdd:code
+    "L-ECC";
+  bsdd:name "Compression chiller" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECB> bsdd:code
+    "L-ECB";
+  bsdd:name "Electric cold air blower" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETA> bsdd:code
+    "L-ETA";
+  bsdd:name "Boiling water reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETC> bsdd:code
+    "L-ETC";
+  bsdd:name "High-temperature gas-cooled reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETB> bsdd:code
+    "L-ETB";
+  bsdd:name "Pressurized water reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQA> bsdd:code
+    "L-EQA";
+  bsdd:name "Cooling surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQE> bsdd:code
+    "L-EQE";
+  bsdd:name "Cooling tube" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQD> bsdd:code
+    "L-EQD";
+  bsdd:name "Cooler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQC> bsdd:code
+    "L-EQC";
+  bsdd:name "Chiller" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQB> bsdd:code
+    "L-EQB";
+  bsdd:name "Cooling panel" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGB> bsdd:code
+    "L-EGB";
+  bsdd:name "Peltier element" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGA> bsdd:code
+    "L-EGA";
+  bsdd:name "Heat pump" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGC> bsdd:code
+    "L-EGC";
+  bsdd:name "Heat exchanger" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUB> bsdd:code
+    "L-EUB";
+  bsdd:name "Particle generator" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUA> bsdd:code
+    "L-EUA";
+  bsdd:name "Plasma generator" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAC> bsdd:code
+    "L-EAC";
+  bsdd:name "Liqiud lamp" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAB> bsdd:code
+    "L-EAB";
+  bsdd:name "Gas lamp" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAA> bsdd:code
+    "L-EAA";
+  bsdd:name "Electric lamp" .
