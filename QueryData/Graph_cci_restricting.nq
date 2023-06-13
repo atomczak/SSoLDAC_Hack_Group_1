@@ -1,0 +1,177 @@
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/ceco> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#code> "L-R__" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#name> "Restricting object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> <http://bsdd.buildingsmart.org/def#code> "L-RN_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> <http://bsdd.buildingsmart.org/def#name> "Flow restrictor" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#code> "L-RU_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#name> "Access restricting object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> <http://bsdd.buildingsmart.org/def#code> "L-RA_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> <http://bsdd.buildingsmart.org/def#name> "Electricity restricting object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> <http://bsdd.buildingsmart.org/def#code> "L-RL_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> <http://bsdd.buildingsmart.org/def#name> "Movement restricting object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> <http://bsdd.buildingsmart.org/def#code> "L-RB_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> <http://bsdd.buildingsmart.org/def#name> "Electricity stabilising object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_> <http://bsdd.buildingsmart.org/def#code> "L-RF_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_> <http://bsdd.buildingsmart.org/def#name> "Signal stabilising object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> <http://bsdd.buildingsmart.org/def#code> "L-RM_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> <http://bsdd.buildingsmart.org/def#name> "Return flow restricting object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#code> "L-RQ_" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#name> "Local climate stabilising object" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND> <http://bsdd.buildingsmart.org/def#code> "L-RND" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND> <http://bsdd.buildingsmart.org/def#name> "Diffuser" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC> <http://bsdd.buildingsmart.org/def#code> "L-RNC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC> <http://bsdd.buildingsmart.org/def#name> "Soilds regulating valve" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB> <http://bsdd.buildingsmart.org/def#code> "L-RNB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB> <http://bsdd.buildingsmart.org/def#name> "Regulating damper" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA> <http://bsdd.buildingsmart.org/def#code> "L-RNA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA> <http://bsdd.buildingsmart.org/def#name> "Regulating valve" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUF> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUF> <http://bsdd.buildingsmart.org/def#code> "L-RUF" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUF> <http://bsdd.buildingsmart.org/def#name> "Bird mesh" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUE> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUE> <http://bsdd.buildingsmart.org/def#code> "L-RUE" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUE> <http://bsdd.buildingsmart.org/def#name> "Rodent barrier" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUD> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUD> <http://bsdd.buildingsmart.org/def#code> "L-RUD" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUD> <http://bsdd.buildingsmart.org/def#name> "Bollard" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUC> <http://bsdd.buildingsmart.org/def#code> "L-RUC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUC> <http://bsdd.buildingsmart.org/def#name> "Turnstile" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUB> <http://bsdd.buildingsmart.org/def#code> "L-RUB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUB> <http://bsdd.buildingsmart.org/def#name> "Movable barrier" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA> <http://bsdd.buildingsmart.org/def#code> "L-RUA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA> <http://bsdd.buildingsmart.org/def#name> "Fence" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAC> <http://bsdd.buildingsmart.org/def#code> "L-RAC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAC> <http://bsdd.buildingsmart.org/def#name> "Resistor" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAB> <http://bsdd.buildingsmart.org/def#code> "L-RAB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAB> <http://bsdd.buildingsmart.org/def#name> "Reactor" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAA> <http://bsdd.buildingsmart.org/def#code> "L-RAA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAA> <http://bsdd.buildingsmart.org/def#name> "Diode" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLA> <http://bsdd.buildingsmart.org/def#code> "L-RLA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLA> <http://bsdd.buildingsmart.org/def#name> "Security chain" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLD> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLD> <http://bsdd.buildingsmart.org/def#code> "L-RLD" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLD> <http://bsdd.buildingsmart.org/def#name> "Speed bump" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLC> <http://bsdd.buildingsmart.org/def#code> "L-RLC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLC> <http://bsdd.buildingsmart.org/def#name> "Brake" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLB> <http://bsdd.buildingsmart.org/def#code> "L-RLB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLB> <http://bsdd.buildingsmart.org/def#name> "Shock absorber" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBB> <http://bsdd.buildingsmart.org/def#code> "L-RBB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBB> <http://bsdd.buildingsmart.org/def#name> "Power filter" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBA> <http://bsdd.buildingsmart.org/def#code> "L-RBA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBA> <http://bsdd.buildingsmart.org/def#name> "Uninterrupted power supply" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBD> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBD> <http://bsdd.buildingsmart.org/def#code> "L-RBD" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBD> <http://bsdd.buildingsmart.org/def#name> "Power equaliser" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBC> <http://bsdd.buildingsmart.org/def#code> "L-RBC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBC> <http://bsdd.buildingsmart.org/def#name> "Phase compensator" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFB> <http://bsdd.buildingsmart.org/def#code> "L-RFB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFB> <http://bsdd.buildingsmart.org/def#name> "Signal filter" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFA> <http://bsdd.buildingsmart.org/def#code> "L-RFA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFA> <http://bsdd.buildingsmart.org/def#name> "Signal equaliser" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMD> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMD> <http://bsdd.buildingsmart.org/def#code> "L-RMD" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMD> <http://bsdd.buildingsmart.org/def#name> "Stench trap" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMC> <http://bsdd.buildingsmart.org/def#code> "L-RMC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMC> <http://bsdd.buildingsmart.org/def#name> "Flap" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMB> <http://bsdd.buildingsmart.org/def#code> "L-RMB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMB> <http://bsdd.buildingsmart.org/def#name> "Check damper" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMA> <http://bsdd.buildingsmart.org/def#code> "L-RMA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMA> <http://bsdd.buildingsmart.org/def#name> "Non-return valve" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQG> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQG> <http://bsdd.buildingsmart.org/def#code> "L-RQG" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQG> <http://bsdd.buildingsmart.org/def#name> "Shutter" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF> <http://bsdd.buildingsmart.org/def#code> "L-RQF" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF> <http://bsdd.buildingsmart.org/def#name> "Louvered blind" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQE> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQE> <http://bsdd.buildingsmart.org/def#code> "L-RQE" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQE> <http://bsdd.buildingsmart.org/def#name> "Curtain" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD> <http://bsdd.buildingsmart.org/def#code> "L-RQD" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD> <http://bsdd.buildingsmart.org/def#name> "Screen" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC> <http://bsdd.buildingsmart.org/def#code> "L-RQC" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC> <http://bsdd.buildingsmart.org/def#name> "Noise barrier" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB> <http://bsdd.buildingsmart.org/def#code> "L-RQB" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB> <http://bsdd.buildingsmart.org/def#name> "Membrane" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA> <http://bsdd.buildingsmart.org/def#code> "L-RQA" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA> <http://bsdd.buildingsmart.org/def#name> "Insulation" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQJ> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQJ> <http://bsdd.buildingsmart.org/def#code> "L-RQJ" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQJ> <http://bsdd.buildingsmart.org/def#name> "Screen wall" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> <http://bsdd.buildingsmart.org/def#childClassification> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQH> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQH> <http://bsdd.buildingsmart.org/def#code> "L-RQH" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQH> <http://bsdd.buildingsmart.org/def#name> "Weed control fabric" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND/AirFlowRate> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND/AirFlowRate> <http://bsdd.buildingsmart.org/def#code> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND/AirFlowRate> <http://bsdd.buildingsmart.org/def#name> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/NominalHeight> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/NominalHeight> <http://bsdd.buildingsmart.org/def#code> "NominalHeight" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/NominalHeight> <http://bsdd.buildingsmart.org/def#name> "NominalHeight" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/AirFlowRate> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/AirFlowRate> <http://bsdd.buildingsmart.org/def#code> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/AirFlowRate> <http://bsdd.buildingsmart.org/def#name> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB/AirFlowRate> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB/AirFlowRate> <http://bsdd.buildingsmart.org/def#code> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB/AirFlowRate> <http://bsdd.buildingsmart.org/def#name> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/NominalHeight> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/NominalHeight> <http://bsdd.buildingsmart.org/def#code> "NominalHeight" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/NominalHeight> <http://bsdd.buildingsmart.org/def#name> "NominalHeight" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/AirFlowRate> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/AirFlowRate> <http://bsdd.buildingsmart.org/def#code> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/AirFlowRate> <http://bsdd.buildingsmart.org/def#name> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA/Height> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA/Height> <http://bsdd.buildingsmart.org/def#code> "Height" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA/Height> <http://bsdd.buildingsmart.org/def#name> "Height" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF/IsExternal> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF/IsExternal> <http://bsdd.buildingsmart.org/def#code> "IsExternal" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF/IsExternal> <http://bsdd.buildingsmart.org/def#name> "IsExternal" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD/ThermalTransmittance> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD/ThermalTransmittance> <http://bsdd.buildingsmart.org/def#code> "ThermalTransmittance" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD/ThermalTransmittance> <http://bsdd.buildingsmart.org/def#name> "ThermalTransmittance" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC/AirFlowRate> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC/AirFlowRate> <http://bsdd.buildingsmart.org/def#code> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC/AirFlowRate> <http://bsdd.buildingsmart.org/def#name> "AirFlowRate" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/IsExternal> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/IsExternal> <http://bsdd.buildingsmart.org/def#code> "IsExternal" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/IsExternal> <http://bsdd.buildingsmart.org/def#name> "IsExternal" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/ThermalTransmittance> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/ThermalTransmittance> <http://bsdd.buildingsmart.org/def#code> "ThermalTransmittance" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/ThermalTransmittance> <http://bsdd.buildingsmart.org/def#name> "ThermalTransmittance" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/ConstructionMethod> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/ConstructionMethod> <http://bsdd.buildingsmart.org/def#code> "ConstructionMethod" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/ConstructionMethod> <http://bsdd.buildingsmart.org/def#name> "ConstructionMethod" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA> <http://bsdd.buildingsmart.org/def#classificationProperty> <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/Length> .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/Length> <http://bsdd.buildingsmart.org/def#code> "Length" .
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/Length> <http://bsdd.buildingsmart.org/def#name> "Length" .
