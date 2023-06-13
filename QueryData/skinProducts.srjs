@@ -1,0 +1,797 @@
+{
+  "head" : {
+    "vars" : [
+      "x",
+      "code",
+      "name"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Skin products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_96"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Grid and grating skin products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Smoke and fire control products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Unit skin products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Non-rigid sheet, mat and strip skin products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_31"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Formless skin products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Rigid board, panel and sheet products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Fixed access products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_96_35"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Grids and grilles"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_96_30"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Gratings"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_80_79"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Smoke and fire barriers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_80_81"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Smoke and fire stopping"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_80_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Smoke and fire cavity barriers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_54"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Metal capping and coping units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_52"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Masonry openings units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_51"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Masonry dressing units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_50"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Masonry capping and coping units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_47"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Level crossing surfacing products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_45"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Kerb units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Paving units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_72"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Roofing and cladding units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_55"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Metal sills"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_93_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Rail track paving"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_51"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Membranes, liners, flexible sheets and fabrics"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_06"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Batt and quilt products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_21"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Damp-proof courses and cavity trays"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_90"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Tensile, stretch and suspended fabrics"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_61"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Plant fibre-based membranes, liners, flexible sheet and fabrics"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_56"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Netting and non-reinforcement mesh"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_85"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Synthetic filter fabrics"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_10"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Building papers and vapour permeable sheets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_65"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Plastics membranes"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_53"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Moisture retention sheets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_57_08"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Bitumen-based membranes, sheets and fabrics"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_31_48"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Loose insulation"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_31_28"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Expanding foams"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_97"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Wood-based boards"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_94"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Veneers and facings"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_53"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Mirrors"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_52"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Mineral-based boards and sheets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_51"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Metal sheets and strips"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_50"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Metal panels"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_63"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Plastics-based boards and sheets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_33"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Glass and glazing sheets and profiles"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_57"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Non-metal barrier panels"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_29"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Falsework and formwork"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_44"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Joint fillers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_14"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Cladding and lining panels"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_43"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Interior linings"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_71_42"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Infill panels"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30_30"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Floor plates, gratings and edgings"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30_85"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Stair and ladder units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30_36"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Handrails"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30_75"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Safety cages"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30_90"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Treads and landing units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_25_30_86"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Surface level traffic control products"
+        }
+      }
+    ]
+  }
+}
