@@ -1,0 +1,14 @@
+[INFO ] 2023-06-12 22:07:12,559 [http-nio-7200-exec-1 | c.o.t.r.RequestURLInterceptor] Using the first IP of the machine: 172.21.0.2
+[INFO ] 2023-06-12 22:07:12,560 [http-nio-7200-exec-1 | c.o.t.r.RequestURLInterceptor] Discovered base URL for repositories: http://172.21.0.2:7200
+[INFO ] 2023-06-12 22:07:37,520 [repositories/LDAC | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:38,396 [repositories/LDAC | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:39,270 [http-nio-7200-exec-9 | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:43,270 [http-nio-7200-exec-2 | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:43,378 [repositories/LDAC | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:47,261 [repositories/LDAC | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:53,264 [http-nio-7200-exec-3 | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:54,743 [repositories/LDAC | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:07:57,108 [http-nio-7200-exec-1 | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:08:01,103 [http-nio-7200-exec-10 | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:08:05,108 [http-nio-7200-exec-2 | c.o.t.r.ReplicationClusterWorker] Initializing repository
+[INFO ] 2023-06-12 22:08:11,118 [http-nio-7200-exec-6 | c.o.t.r.ReplicationClusterWorker] Initializing repository
