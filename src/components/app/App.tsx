@@ -1,15 +1,7 @@
-import { getNthFibonacciItemValue } from "../../actions/index";
-import "./App.css";
-import {SyncAction} from '../sync_actions/SyncAction'
-import {AsyncAction} from '../async_actions/AsyncAction'
-import { WorkerAction } from "../worker_actions/WorkerAction";
-import { WorkerComlink } from "../worker_actions_comlink/WorkerComlink";
-
+import { dbController } from "../../services/dependency_injection";
 
 
 const App = () => {
-
-
 
   const backgroundClick = () => {
 
@@ -24,10 +16,6 @@ const App = () => {
   return (
     <div>
       <h1>App</h1>
-      <SyncAction/>
-      <AsyncAction/>
-      <WorkerAction/>
-      <WorkerComlink/>
       <button onClick={backgroundClick} id="backgroundToggle">Change background</button>
     </div>
   );
