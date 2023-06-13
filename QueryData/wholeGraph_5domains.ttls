@@ -1,0 +1,2556 @@
+@prefix bsdd: <http://bsdd.buildingsmart.org/def#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf4j: <http://rdf4j.org/schema/rdf4j#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EG000030> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EG000030>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002327>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768>, <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414>;
+  bsdd:code "EG000030";
+  bsdd:name "Accessories for lighting" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471> bsdd:code
+    "EC000471";
+  bsdd:name "Emergency unit for luminaire";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF012518>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF000004>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF005127>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF007947>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF002960>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF008091>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF000076>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF002423> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF012518> bsdd:code
+    "EF012518";
+  bsdd:name "Nominal operation time" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF000004> bsdd:code
+    "EF000004";
+  bsdd:name "Protection class" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF005127> bsdd:code
+    "EF005127";
+  bsdd:name "Nominal voltage" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF007947> bsdd:code
+    "EF007947";
+  bsdd:name "With remote switch connection" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF002960> bsdd:code
+    "EF002960";
+  bsdd:name "Wiring system" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF008091> bsdd:code
+    "EF008091";
+  bsdd:name "Monitoring equipment" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF000076> bsdd:code
+    "EF000076";
+  bsdd:name "Power" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000471/EF002423> bsdd:code
+    "EF002423";
+  bsdd:name "Lamp type" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061> bsdd:code
+    "EC000061";
+  bsdd:name "Light pole";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF001286>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF012189>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000139>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF012592>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000369>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF009494>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000093>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000089>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000010>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF008869>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF001285>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000090>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000229> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF001286> bsdd:code
+    "EF001286";
+  bsdd:name "Supporting bracket" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF012189> bsdd:code
+    "EF012189";
+  bsdd:name "Protection of base part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000139> bsdd:code
+    "EF000139";
+  bsdd:name "Surface protection" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF012592> bsdd:code
+    "EF012592";
+  bsdd:name "Conical tapering" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000369> bsdd:code
+    "EF000369";
+  bsdd:name "Total length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF009494> bsdd:code
+    "EF009494";
+  bsdd:name "Diameter at base" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000093> bsdd:code
+    "EF000093";
+  bsdd:name "With base plate" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000089> bsdd:code
+    "EF000089";
+  bsdd:name "Light centre height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000010> bsdd:code
+    "EF000010";
+  bsdd:name "Model" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF008869> bsdd:code
+    "EF008869";
+  bsdd:name "Stepped shape" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF001285> bsdd:code
+    "EF001285";
+  bsdd:name "Top end diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000090> bsdd:code
+    "EF000090";
+  bsdd:name "Mounting arm length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000061/EF000229> bsdd:code
+    "EF000229";
+  bsdd:name "Wall thickness" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005> bsdd:code
+    "EC002005";
+  bsdd:name "Test device for emergency power luminaires";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000346>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000337>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF001438> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000346> bsdd:code
+    "EF000346";
+  bsdd:name "Power consumption" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000337> bsdd:code
+    "EF000337";
+  bsdd:name "Suitable for 19 inch rack mounting" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002005/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678> bsdd:code
+    "EC002678";
+  bsdd:name "Emergency lighting power supply unit";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF007947>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000004>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF002960>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF001438>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF005127>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF002423>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF005474>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF008091>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF012518>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000076>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000008> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF007947> bsdd:code
+    "EF007947";
+  bsdd:name "With remote switch connection" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000004> bsdd:code
+    "EF000004";
+  bsdd:name "Protection class" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF002960> bsdd:code
+    "EF002960";
+  bsdd:name "Wiring system" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF005127> bsdd:code
+    "EF005127";
+  bsdd:name "Nominal voltage" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF002423> bsdd:code
+    "EF002423";
+  bsdd:name "Lamp type" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF005474> bsdd:code
+    "EF005474";
+  bsdd:name "Degree of protection (IP)" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF008091> bsdd:code
+    "EF008091";
+  bsdd:name "Monitoring equipment" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF012518> bsdd:code
+    "EF012518";
+  bsdd:name "Nominal operation time" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000076> bsdd:code
+    "EF000076";
+  bsdd:name "Power" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002678/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828> bsdd:code
+    "EC002828";
+  bsdd:name "Pillar for bollard";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000167>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF008869>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF008709>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF012592>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000010>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF012591>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000093>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF001205>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000139>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000008> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000167> bsdd:code
+    "EF000167";
+  bsdd:name "Weight" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF008869> bsdd:code
+    "EF008869";
+  bsdd:name "Stepped shape" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF008709> bsdd:code
+    "EF008709";
+  bsdd:name "Max. weight luminaire" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF012592> bsdd:code
+    "EF012592";
+  bsdd:name "Conical tapering" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000010> bsdd:code
+    "EF000010";
+  bsdd:name "Model" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF012591> bsdd:code
+    "EF012591";
+  bsdd:name "Arched" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000093> bsdd:code
+    "EF000093";
+  bsdd:name "With base plate" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF001205> bsdd:code
+    "EF001205";
+  bsdd:name "Tube diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000139> bsdd:code
+    "EF000139";
+  bsdd:name "Surface protection" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002828/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559> bsdd:code
+    "EC002559";
+  bsdd:name "Accessories/spare parts for light pole";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF025115>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000049>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000139>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF008139>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF007586>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF005495>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF008140>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF013236>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000215>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF013237>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000167>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000040> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF025115> bsdd:code
+    "EF025115";
+  bsdd:name "Insert depth" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000049> bsdd:code
+    "EF000049";
+  bsdd:name "Depth" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000139> bsdd:code
+    "EF000139";
+  bsdd:name "Surface protection" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF008139> bsdd:code
+    "EF008139";
+  bsdd:name "Top end diameter, luminaire side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF007586> bsdd:code
+    "EF007586";
+  bsdd:name "Number of arms of the top-piece" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF005495> bsdd:code
+    "EF005495";
+  bsdd:name "Suitable for pipe diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF008140> bsdd:code
+    "EF008140";
+  bsdd:name "Top end diameter, pole side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF013236> bsdd:code
+    "EF013236";
+  bsdd:name "Accessory" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000215> bsdd:code
+    "EF000215";
+  bsdd:name "Type of accessory/spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF013237> bsdd:code
+    "EF013237";
+  bsdd:name "Spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000167> bsdd:code
+    "EF000167";
+  bsdd:name "Weight" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002559/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401> bsdd:code
+    "EC000401";
+  bsdd:name "Lamp holder";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000581>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000048>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000010>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF014925>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000582>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF012076>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF002442>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF011072>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF014927>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF014926> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000581> bsdd:code
+    "EF000581";
+  bsdd:name "With starter insertion" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000048> bsdd:code
+    "EF000048";
+  bsdd:name "Lamp holder" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000010> bsdd:code
+    "EF000010";
+  bsdd:name "Model" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF014925> bsdd:code
+    "EF014925";
+  bsdd:name "Compatible with Apple HomeKit" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF000582> bsdd:code
+    "EF000582";
+  bsdd:name "Nipple thread" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF012076> bsdd:code
+    "EF012076";
+  bsdd:name "With bracket" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF002442> bsdd:code
+    "EF002442";
+  bsdd:name "Type of fastening" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF011072> bsdd:code
+    "EF011072";
+  bsdd:name "IFTTT support available" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF014927> bsdd:code
+    "EF014927";
+  bsdd:name "Compatible with Amazon Alexa" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000401/EF014926> bsdd:code
+    "EF014926";
+  bsdd:name "Compatible with Google Assistant" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558> bsdd:code
+    "EC002558";
+  bsdd:name "Light technical accessories/spare parts for luminaires";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF004283>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF001456>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF004282>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF012170>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000551>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF008829>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF008885>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000215>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF016889>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000128>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF013237>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF008831>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF001438>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF013236> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF004283> bsdd:code
+    "EF004283";
+  bsdd:name "Light sharing" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF001456> bsdd:code
+    "EF001456";
+  bsdd:name "Height/depth" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF004282> bsdd:code
+    "EF004282";
+  bsdd:name "Light outlet" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF012170> bsdd:code
+    "EF012170";
+  bsdd:name "Light distributor" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000551> bsdd:code
+    "EF000551";
+  bsdd:name "Diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF008829> bsdd:code
+    "EF008829";
+  bsdd:name "Grid perforated" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF008885> bsdd:code
+    "EF008885";
+  bsdd:name "Design of the grid/reflector" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000215> bsdd:code
+    "EF000215";
+  bsdd:name "Type of accessory/spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF016889> bsdd:code
+    "EF016889";
+  bsdd:name "Kind of luminaire cover/post globe" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF000128> bsdd:code
+    "EF000128";
+  bsdd:name "Beam angle" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF013237> bsdd:code
+    "EF013237";
+  bsdd:name "Spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF008831> bsdd:code
+    "EF008831";
+  bsdd:name "Reflector perforated" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002558/EF013236> bsdd:code
+    "EF013236";
+  bsdd:name "Accessory" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709> bsdd:code
+    "EC002709";
+  bsdd:name "Cover for fluorescent lamp";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF004293>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF000280>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF000551>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF001438> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF004293> bsdd:code
+    "EF004293";
+  bsdd:name "Impact strength" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF000280> bsdd:code
+    "EF000280";
+  bsdd:name "Suitable for lamp power" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF000551> bsdd:code
+    "EF000551";
+  bsdd:name "Diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002709/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640> bsdd:code
+    "EC003640";
+  bsdd:name "Lamp shade";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012718>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF000051>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012720>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF010835>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012712>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012714>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF021568>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012715>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF021453>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012721>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012723>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012724>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012722>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012716> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012718> bsdd:code
+    "EF012718";
+  bsdd:name "Motif/pattern" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF000051> bsdd:code
+    "EF000051";
+  bsdd:name "Shape" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012720> bsdd:code
+    "EF012720";
+  bsdd:name "Length bottom side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF010835> bsdd:code
+    "EF010835";
+  bsdd:name "Width bottom side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012712> bsdd:code
+    "EF012712";
+  bsdd:name "Material lamp shade" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012714> bsdd:code
+    "EF012714";
+  bsdd:name "Number of colours lamp shade" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF021568> bsdd:code
+    "EF021568";
+  bsdd:name "Colour frame" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012715> bsdd:code
+    "EF012715";
+  bsdd:name "Main colour lamp shade" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF021453> bsdd:code
+    "EF021453";
+  bsdd:name "Frame material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012721> bsdd:code
+    "EF012721";
+  bsdd:name "Diameter bottom side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012723> bsdd:code
+    "EF012723";
+  bsdd:name "Width top side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012724> bsdd:code
+    "EF012724";
+  bsdd:name "Diameter top side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012722> bsdd:code
+    "EF012722";
+  bsdd:name "Length top side" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC003640/EF012716> bsdd:code
+    "EF012716";
+  bsdd:name "Secondary colour lamp shade" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557> bsdd:code
+    "EC002557";
+  bsdd:name "Mechanical accessories/spare parts for luminaires";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF013236>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000551>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000215>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF013237>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF001438>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF006243> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF013236> bsdd:code
+    "EF013236";
+  bsdd:name "Accessory" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000551> bsdd:code
+    "EF000551";
+  bsdd:name "Diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000215> bsdd:code
+    "EF000215";
+  bsdd:name "Type of accessory/spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF013237> bsdd:code
+    "EF013237";
+  bsdd:name "Spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002557/EF006243> bsdd:code
+    "EF006243";
+  bsdd:name "Transparent" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002327> bsdd:code
+    "EC002327";
+  bsdd:name "End piece for illumination cable";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002327/EF006562> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002327/EF006562> bsdd:code
+    "EF006562";
+  bsdd:name "With hook" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101> bsdd:code
+    "EC000101";
+  bsdd:name "Light-track";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000846>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF006569>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001438>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF004285>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF007793>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000051>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001280>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000955>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF005127>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF006760>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001265>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF023518>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000004>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000015>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001281>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000040> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000846> bsdd:code
+    "EF000846";
+  bsdd:name "Built-in width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF006569> bsdd:code
+    "EF006569";
+  bsdd:name "Surface finishing" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF004285> bsdd:code
+    "EF004285";
+  bsdd:name "Max. electrical capacity per phase" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF007793> bsdd:code
+    "EF007793";
+  bsdd:name "Suitable for surface mounting" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000051> bsdd:code
+    "EF000051";
+  bsdd:name "Shape" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001280> bsdd:code
+    "EF001280";
+  bsdd:name "Number of groups/phases" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000955> bsdd:code
+    "EF000955";
+  bsdd:name "Suitable for bus connection" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF005127> bsdd:code
+    "EF005127";
+  bsdd:name "Nominal voltage" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF006760> bsdd:code
+    "EF006760";
+  bsdd:name "Suitable for built-in mounting" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001265> bsdd:code
+    "EF001265";
+  bsdd:name "Suitable for suspended mounting" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF023518> bsdd:code
+    "EF023518";
+  bsdd:name "Built-in height/depth" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000004> bsdd:code
+    "EF000004";
+  bsdd:name "Protection class" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000015> bsdd:code
+    "EF000015";
+  bsdd:name "Outer diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF001281> bsdd:code
+    "EF001281";
+  bsdd:name "Bendable" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000101/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556> bsdd:code
+    "EC002556";
+  bsdd:name "Electrical accessories/spare parts for luminaires";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF001335>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF001792>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF013237>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF013236>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF000215> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF001335> bsdd:code
+    "EF001335";
+  bsdd:name "Nominal cross section" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF001792> bsdd:code
+    "EF001792";
+  bsdd:name "Number of cores" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF013237> bsdd:code
+    "EF013237";
+  bsdd:name "Spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF013236> bsdd:code
+    "EF013236";
+  bsdd:name "Accessory" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002556/EF000215> bsdd:code
+    "EF000215";
+  bsdd:name "Type of accessory/spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707> bsdd:code
+    "EC002707";
+  bsdd:name "Accessories/spare parts for light ribbon-/hose/-strip";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707/EF013237>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707/EF013236>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707/EF000215> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707/EF013237> bsdd:code
+    "EF013237";
+  bsdd:name "Spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707/EF013236> bsdd:code
+    "EF013236";
+  bsdd:name "Accessory" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002707/EF000215> bsdd:code
+    "EF000215";
+  bsdd:name "Type of accessory/spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479> bsdd:code
+    "EC000479";
+  bsdd:name "Pictogram for emergency luminaire";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF008732>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF000386>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF001438>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF001067>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF005209>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF001271>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF000010> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF008732> bsdd:code
+    "EF008732";
+  bsdd:name "Recognition distance" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF000386> bsdd:code
+    "EF000386";
+  bsdd:name "Material thickness" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF001067> bsdd:code
+    "EF001067";
+  bsdd:name "Double-sided" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF005209> bsdd:code
+    "EF005209";
+  bsdd:name "Direction" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF001271> bsdd:code
+    "EF001271";
+  bsdd:name "Meaning pictogram" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000479/EF000010> bsdd:code
+    "EF000010";
+  bsdd:name "Model" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472> bsdd:code
+    "EC002472";
+  bsdd:name "Accessories/spare parts for luminaire mounting box";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472/EF013237>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472/EF013236>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472/EF000215> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472/EF013237> bsdd:code
+    "EF013237";
+  bsdd:name "Spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472/EF013236> bsdd:code
+    "EF013236";
+  bsdd:name "Accessory" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002472/EF000215> bsdd:code
+    "EF000215";
+  bsdd:name "Type of accessory/spare part" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768> bsdd:code
+    "EC002768";
+  bsdd:name "Luminaire hoist";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF005127>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008528>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF005474>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000004>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF011959>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000187>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008531>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008530>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000049>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008532>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000001> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF005127> bsdd:code
+    "EF005127";
+  bsdd:name "Nominal voltage" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008528> bsdd:code
+    "EF008528";
+  bsdd:name "Lowering height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF005474> bsdd:code
+    "EF005474";
+  bsdd:name "Degree of protection (IP)" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000004> bsdd:code
+    "EF000004";
+  bsdd:name "Protection class" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF011959> bsdd:code
+    "EF011959";
+  bsdd:name "Degree of protection (NEMA)" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000187> bsdd:code
+    "EF000187";
+  bsdd:name "Voltage type" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008531> bsdd:code
+    "EF008531";
+  bsdd:name "Hoisting speed" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008530> bsdd:code
+    "EF008530";
+  bsdd:name "Hoisting load" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000049> bsdd:code
+    "EF000049";
+  bsdd:name "Depth" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF008532> bsdd:code
+    "EF008532";
+  bsdd:name "Number of suspension cables" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC002768/EF000001> bsdd:code
+    "EF000001";
+  bsdd:name "Nominal current" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293> bsdd:code
+    "EC000293";
+  bsdd:name "Support profile light-line system";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF006426>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001297>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF005166>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000040>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF005474>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001293>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF004287>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000008>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000004>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF004295>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001294>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001438>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001291>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000007>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF004267>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000010> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF006426> bsdd:code
+    "EF006426";
+  bsdd:name "With cable tray" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001297> bsdd:code
+    "EF001297";
+  bsdd:name "Integrated electromechanical coupling" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF005166> bsdd:code
+    "EF005166";
+  bsdd:name "Suitable for cable tray" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000040> bsdd:code
+    "EF000040";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF005474> bsdd:code
+    "EF005474";
+  bsdd:name "Degree of protection (IP)" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001293> bsdd:code
+    "EF001293";
+  bsdd:name "With wiring" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF004287> bsdd:code
+    "EF004287";
+  bsdd:name "Cross section wiring cores" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000008> bsdd:code
+    "EF000008";
+  bsdd:name "Width" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000004> bsdd:code
+    "EF000004";
+  bsdd:name "Protection class" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF004295> bsdd:code
+    "EF004295";
+  bsdd:name "Variable distance of electrical units" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001294> bsdd:code
+    "EF001294";
+  bsdd:name "Number of cores wiring" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001438> bsdd:code
+    "EF001438";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF001291> bsdd:code
+    "EF001291";
+  bsdd:name "Lamp power of fluorescent batten" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000007> bsdd:code
+    "EF000007";
+  bsdd:name "Colour" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF004267> bsdd:code
+    "EF004267";
+  bsdd:name "Electrical connection with connector system" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000293/EF000010> bsdd:code
+    "EF000010";
+  bsdd:name "Model" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414> bsdd:code
+    "EC000414";
+  bsdd:name "Built-in installation box luminaire";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006434>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF002169>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006432>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006435>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF007942>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF023518>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000943>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000280>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006433>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000041>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF004265>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF009764>,
+    <https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000846> .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006434> bsdd:code
+    "EF006434";
+  bsdd:name "Max. diameter luminaire" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF002169> bsdd:code
+    "EF002169";
+  bsdd:name "Material" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006432> bsdd:code
+    "EF006432";
+  bsdd:name "Suitable for high voltage luminaires" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006435> bsdd:code
+    "EF006435";
+  bsdd:name "Min. ceiling thickness" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF007942> bsdd:code
+    "EF007942";
+  bsdd:name "With space for gear" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF023518> bsdd:code
+    "EF023518";
+  bsdd:name "Built-in height/depth" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000943> bsdd:code
+    "EF000943";
+  bsdd:name "Built-in diameter" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000280> bsdd:code
+    "EF000280";
+  bsdd:name "Suitable for lamp power" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF006433> bsdd:code
+    "EF006433";
+  bsdd:name "Suitable for low voltage luminaires" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000041> bsdd:code
+    "EF000041";
+  bsdd:name "Application" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF004265> bsdd:code
+    "EF004265";
+  bsdd:name "Built-in length" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF009764> bsdd:code
+    "EF009764";
+  bsdd:name "Suitable for LED luminaires" .
+
+<https://identifier.buildingsmart.org/uri/etim/etim-9.0/class/EC000414/EF000846> bsdd:code
+    "EF000846";
+  bsdd:name "Built-in width" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUF>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQG>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQJ>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQH>;
+  bsdd:code "L-R__";
+  bsdd:name "Restricting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_> bsdd:code
+    "L-RN_";
+  bsdd:name "Flow restrictor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_> bsdd:code
+    "L-RU_";
+  bsdd:name "Access restricting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_> bsdd:code
+    "L-RA_";
+  bsdd:name "Electricity restricting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_> bsdd:code
+    "L-RL_";
+  bsdd:name "Movement restricting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_> bsdd:code
+    "L-RB_";
+  bsdd:name "Electricity stabilising object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_> bsdd:code
+    "L-RF_";
+  bsdd:name "Signal stabilising object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_> bsdd:code
+    "L-RM_";
+  bsdd:name "Return flow restricting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_> bsdd:code
+    "L-RQ_";
+  bsdd:name "Local climate stabilising object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND> bsdd:code
+    "L-RND";
+  bsdd:name "Diffuser";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND/AirFlowRate> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND/AirFlowRate>
+  bsdd:code "AirFlowRate";
+  bsdd:name "AirFlowRate" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC> bsdd:code
+    "L-RNC";
+  bsdd:name "Soilds regulating valve";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/NominalHeight>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/AirFlowRate> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/NominalHeight>
+  bsdd:code "NominalHeight";
+  bsdd:name "NominalHeight" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC/AirFlowRate>
+  bsdd:code "AirFlowRate";
+  bsdd:name "AirFlowRate" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB> bsdd:code
+    "L-RNB";
+  bsdd:name "Regulating damper";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB/AirFlowRate> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB/AirFlowRate>
+  bsdd:code "AirFlowRate";
+  bsdd:name "AirFlowRate" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA> bsdd:code
+    "L-RNA";
+  bsdd:name "Regulating valve";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/NominalHeight>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/AirFlowRate> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/NominalHeight>
+  bsdd:code "NominalHeight";
+  bsdd:name "NominalHeight" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA/AirFlowRate>
+  bsdd:code "AirFlowRate";
+  bsdd:name "AirFlowRate" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUF> bsdd:code
+    "L-RUF";
+  bsdd:name "Bird mesh" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUE> bsdd:code
+    "L-RUE";
+  bsdd:name "Rodent barrier" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUD> bsdd:code
+    "L-RUD";
+  bsdd:name "Bollard" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUC> bsdd:code
+    "L-RUC";
+  bsdd:name "Turnstile" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUB> bsdd:code
+    "L-RUB";
+  bsdd:name "Movable barrier" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA> bsdd:code
+    "L-RUA";
+  bsdd:name "Fence";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA/Height> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA/Height>
+  bsdd:code "Height";
+  bsdd:name "Height" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAC> bsdd:code
+    "L-RAC";
+  bsdd:name "Resistor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAB> bsdd:code
+    "L-RAB";
+  bsdd:name "Reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAA> bsdd:code
+    "L-RAA";
+  bsdd:name "Diode" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLA> bsdd:code
+    "L-RLA";
+  bsdd:name "Security chain" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLD> bsdd:code
+    "L-RLD";
+  bsdd:name "Speed bump" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLC> bsdd:code
+    "L-RLC";
+  bsdd:name "Brake" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLB> bsdd:code
+    "L-RLB";
+  bsdd:name "Shock absorber" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBB> bsdd:code
+    "L-RBB";
+  bsdd:name "Power filter" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBA> bsdd:code
+    "L-RBA";
+  bsdd:name "Uninterrupted power supply" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBD> bsdd:code
+    "L-RBD";
+  bsdd:name "Power equaliser" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBC> bsdd:code
+    "L-RBC";
+  bsdd:name "Phase compensator" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFB> bsdd:code
+    "L-RFB";
+  bsdd:name "Signal filter" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFA> bsdd:code
+    "L-RFA";
+  bsdd:name "Signal equaliser" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMD> bsdd:code
+    "L-RMD";
+  bsdd:name "Stench trap" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMC> bsdd:code
+    "L-RMC";
+  bsdd:name "Flap" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMB> bsdd:code
+    "L-RMB";
+  bsdd:name "Check damper" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMA> bsdd:code
+    "L-RMA";
+  bsdd:name "Non-return valve" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQG> bsdd:code
+    "L-RQG";
+  bsdd:name "Shutter" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF> bsdd:code
+    "L-RQF";
+  bsdd:name "Louvered blind";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF/IsExternal> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF/IsExternal>
+  bsdd:code "IsExternal";
+  bsdd:name "IsExternal" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQE> bsdd:code
+    "L-RQE";
+  bsdd:name "Curtain" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD> bsdd:code
+    "L-RQD";
+  bsdd:name "Screen";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD/ThermalTransmittance> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD/ThermalTransmittance>
+  bsdd:code "ThermalTransmittance";
+  bsdd:name "ThermalTransmittance" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC> bsdd:code
+    "L-RQC";
+  bsdd:name "Noise barrier";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC/AirFlowRate> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC/AirFlowRate>
+  bsdd:code "AirFlowRate";
+  bsdd:name "AirFlowRate" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB> bsdd:code
+    "L-RQB";
+  bsdd:name "Membrane";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/IsExternal>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/ThermalTransmittance> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/IsExternal>
+  bsdd:code "IsExternal";
+  bsdd:name "IsExternal" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB/ThermalTransmittance>
+  bsdd:code "ThermalTransmittance";
+  bsdd:name "ThermalTransmittance" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA> bsdd:code
+    "L-RQA";
+  bsdd:name "Insulation";
+  bsdd:classificationProperty <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/ConstructionMethod>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/Length> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/ConstructionMethod>
+  bsdd:code "ConstructionMethod";
+  bsdd:name "ConstructionMethod" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA/Length>
+  bsdd:code "Length";
+  bsdd:name "Length" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQJ> bsdd:code
+    "L-RQJ";
+  bsdd:name "Screen wall" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQH> bsdd:code
+    "L-RQH";
+  bsdd:name "Weed control fabric" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EE_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EV_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EB_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EP_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EM_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EC_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ET_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQ_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EG_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EU_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EA_>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EED>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBG>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBF>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBH>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQE>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQD>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQC>;
+  bsdd:code "L-E__";
+  bsdd:name "Emitting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EE_> bsdd:code
+    "L-EE_";
+  bsdd:name "Wireless power object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EV_> bsdd:code
+    "L-EV_";
+  bsdd:name "Acoustic wave emitting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EB_> bsdd:code
+    "L-EB_";
+  bsdd:name "Electric heating object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EP_> bsdd:code
+    "L-EP_";
+  bsdd:name "Thermal heating object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EM_> bsdd:code
+    "L-EM_";
+  bsdd:name "Combustion heating object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EC_> bsdd:code
+    "L-EC_";
+  bsdd:name "Electric cooling object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ET_> bsdd:code
+    "L-ET_";
+  bsdd:name "Nuclear powered heating object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQ_> bsdd:code
+    "L-EQ_";
+  bsdd:name "Thermal cooling object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EG_> bsdd:code
+    "L-EG_";
+  bsdd:name "Thermal energy transfer object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EU_> bsdd:code
+    "L-EU_";
+  bsdd:name "Particle emitting object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EA_> bsdd:code
+    "L-EA_";
+  bsdd:name "Light object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEE> bsdd:code
+    "L-EEE";
+  bsdd:name "Capacitive coupler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EED> bsdd:code
+    "L-EED";
+  bsdd:name "Gamma ray source" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEC> bsdd:code
+    "L-EEC";
+  bsdd:name "X-ray source" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEB> bsdd:code
+    "L-EEB";
+  bsdd:name "Magnetron" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEA> bsdd:code
+    "L-EEA";
+  bsdd:name "Inductive power antenna" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVB> bsdd:code
+    "L-EVB";
+  bsdd:name "Anti-noise loudspeaker" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVA> bsdd:code
+    "L-EVA";
+  bsdd:name "Sonar" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBG> bsdd:code
+    "L-EBG";
+  bsdd:name "Infrared heater" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBF> bsdd:code
+    "L-EBF";
+  bsdd:name "Induction heater" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBE> bsdd:code
+    "L-EBE";
+  bsdd:name "Arc heating object" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBD> bsdd:code
+    "L-EBD";
+  bsdd:name "Electric hot air blower" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBC> bsdd:code
+    "L-EBC";
+  bsdd:name "Heating cable" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBB> bsdd:code
+    "L-EBB";
+  bsdd:name "Electric heating surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBA> bsdd:code
+    "L-EBA";
+  bsdd:name "Electric boiler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBH> bsdd:code
+    "L-EBH";
+  bsdd:name "Electric oven" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPD> bsdd:code
+    "L-EPD";
+  bsdd:name "Hot air blower" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPC> bsdd:code
+    "L-EPC";
+  bsdd:name "Heating panel" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPB> bsdd:code
+    "L-EPB";
+  bsdd:name "Heating tube" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPA> bsdd:code
+    "L-EPA";
+  bsdd:name "Heating surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMA> bsdd:code
+    "L-EMA";
+  bsdd:name "Stove" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMC> bsdd:code
+    "L-EMC";
+  bsdd:name "Burner" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMB> bsdd:code
+    "L-EMB";
+  bsdd:name "Combustion boiler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECA> bsdd:code
+    "L-ECA";
+  bsdd:name "Electric cooling surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECC> bsdd:code
+    "L-ECC";
+  bsdd:name "Compression chiller" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECB> bsdd:code
+    "L-ECB";
+  bsdd:name "Electric cold air blower" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETA> bsdd:code
+    "L-ETA";
+  bsdd:name "Boiling water reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETC> bsdd:code
+    "L-ETC";
+  bsdd:name "High-temperature gas-cooled reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETB> bsdd:code
+    "L-ETB";
+  bsdd:name "Pressurized water reactor" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQA> bsdd:code
+    "L-EQA";
+  bsdd:name "Cooling surface" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQE> bsdd:code
+    "L-EQE";
+  bsdd:name "Cooling tube" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQD> bsdd:code
+    "L-EQD";
+  bsdd:name "Cooler" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQC> bsdd:code
+    "L-EQC";
+  bsdd:name "Chiller" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUA>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAC>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAB>,
+    <https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAA> .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQB> bsdd:code
+    "L-EQB";
+  bsdd:name "Cooling panel" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGB> bsdd:code
+    "L-EGB";
+  bsdd:name "Peltier element" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGA> bsdd:code
+    "L-EGA";
+  bsdd:name "Heat pump" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGC> bsdd:code
+    "L-EGC";
+  bsdd:name "Heat exchanger" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUB> bsdd:code
+    "L-EUB";
+  bsdd:name "Particle generator" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUA> bsdd:code
+    "L-EUA";
+  bsdd:name "Plasma generator" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAC> bsdd:code
+    "L-EAC";
+  bsdd:name "Liqiud lamp" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAB> bsdd:code
+    "L-EAB";
+  bsdd:name "Gas lamp" .
+
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAA> bsdd:code
+    "L-EAA";
+  bsdd:name "Electric lamp" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_04>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_01>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_36>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_06>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_82>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_37>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_36>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_14>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_76>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_33>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_62>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_58>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_98>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_42>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_97>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_48>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_47>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_46>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_70>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_04>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_03>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_30>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_71>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_85>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_22>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_21>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_89>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_03>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_87>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_86>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_01>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_83>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_27>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_24>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_94>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_53>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_49>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_48>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_07>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_22>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_92>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_50>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_89>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_87>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_61>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_01>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_30>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_99>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_98>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_54>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_95>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69_70>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_90>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_44>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_70>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_78>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_77>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_65>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_64>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_89>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_63>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_47>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_62>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_76>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_91>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_61>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_06>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_03>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_07>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_14>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_05>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_41>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_85>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_84>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_83>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_82>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_48>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_50>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_46>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_27>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_80>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_58>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_46>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_29>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_99>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_73>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_28>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_27>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_42>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_40>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_78>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_72>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_92>;
+  bsdd:code "Pr_70";
+  bsdd:name "Services and process outlet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75> bsdd:code
+    "Pr_70_75";
+  bsdd:name "Communications products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60> bsdd:code
+    "Pr_70_60";
+  bsdd:name "Space heating and cooling products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55> bsdd:code
+    "Pr_70_55";
+  bsdd:name "Liquid and gas outlet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70> bsdd:code
+    "Pr_70_70";
+  bsdd:name "Power and lighting outlet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65> bsdd:code
+    "Pr_70_65";
+  bsdd:name "Air and fume outlet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50> bsdd:code
+    "Pr_70_50";
+  bsdd:name "Solid waste disposal products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_04> bsdd:code
+    "Pr_70_75_04";
+  bsdd:name "Audio, data and visual outlet plates and controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88> bsdd:code
+    "Pr_70_75_88";
+  bsdd:name "Telecoms equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72> bsdd:code
+    "Pr_70_75_72";
+  bsdd:name "Road traffic and pedestrian control signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_01> bsdd:code
+    "Pr_70_75_01";
+  bsdd:name "Aeronautical lighting products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69> bsdd:code
+    "Pr_70_75_69";
+  bsdd:name "Radio communications products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70> bsdd:code
+    "Pr_70_75_70";
+  bsdd:name "Rail signals, indicators and controls" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80> bsdd:code
+    "Pr_70_75_80";
+  bsdd:name "Sports timing and scoring equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94> bsdd:code
+    "Pr_70_75_94";
+  bsdd:name "Visual and audible indicators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52> bsdd:code
+    "Pr_70_75_52";
+  bsdd:name "Computer network products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_36> bsdd:code
+    "Pr_70_75_36";
+  bsdd:name "Hearing and assisted listening products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_06> bsdd:code
+    "Pr_70_75_06";
+  bsdd:name "Audio output devices" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_82> bsdd:code
+    "Pr_70_60_82";
+  bsdd:name "Space heating fittings and equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_37> bsdd:code
+    "Pr_70_60_37";
+  bsdd:name "Heat pumps" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_36> bsdd:code
+    "Pr_70_60_36";
+  bsdd:name "Heat emitters" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_60> bsdd:code
+    "Pr_70_60_60";
+  bsdd:name "Pavement heating products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_14> bsdd:code
+    "Pr_70_60_14";
+  bsdd:name "Climatic beams and ceilings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_51> bsdd:code
+    "Pr_70_55_51";
+  bsdd:name "Medical gases outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_76> bsdd:code
+    "Pr_70_55_76";
+  bsdd:name "Sewage treatment plant" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_33> bsdd:code
+    "Pr_70_55_33";
+  bsdd:name "Gas and foam nozzles and sprinklers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_62> bsdd:code
+    "Pr_70_55_62";
+  bsdd:name "Phase change outlet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_58> bsdd:code
+    "Pr_70_55_58";
+  bsdd:name "Oil and grease lubricant supply products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_98> bsdd:code
+    "Pr_70_55_98";
+  bsdd:name "Water inlets and outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_42> bsdd:code
+    "Pr_70_55_42";
+  bsdd:name "Irrigation water outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_97> bsdd:code
+    "Pr_70_55_97";
+  bsdd:name "Water fire extinguishing outlets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_96> bsdd:code
+    "Pr_70_55_96";
+  bsdd:name "Waste water outlets and plugs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_48> bsdd:code
+    "Pr_70_70_48";
+  bsdd:name "Luminaires, lighting track and lighting accessories" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_47> bsdd:code
+    "Pr_70_70_47";
+  bsdd:name "Lighting controls and lighting distribution products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_46> bsdd:code
+    "Pr_70_70_46";
+  bsdd:name "Lamps" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_70> bsdd:code
+    "Pr_70_70_70";
+  bsdd:name "Rail power products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_04> bsdd:code
+    "Pr_70_65_04";
+  bsdd:name "Air terminals and diffusers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_03> bsdd:code
+    "Pr_70_65_03";
+  bsdd:name "Air conditioning units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_30> bsdd:code
+    "Pr_70_65_30";
+  bsdd:name "Flues and chimneys" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_71> bsdd:code
+    "Pr_70_50_71";
+  bsdd:name "Refuse disposal equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_85> bsdd:code
+    "Pr_70_50_85";
+  bsdd:name "Solid waste compactor products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_80> bsdd:code
+    "Pr_70_50_80";
+  bsdd:name "Solid waste balers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_22>
+  bsdd:code "Pr_70_75_88_22";
+  bsdd:name "Digital enhanced cordless telecommunications (DECT) telephone handsets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_21>
+  bsdd:code "Pr_70_75_88_21";
+  bsdd:name "Data and telecom transient overvoltage surge suppression devices" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_89>
+  bsdd:code "Pr_70_75_88_89";
+  bsdd:name "Telephone operator consoles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_03>
+  bsdd:code "Pr_70_75_88_03";
+  bsdd:name "Analogue telephone handsets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_87>
+  bsdd:code "Pr_70_75_88_87";
+  bsdd:name "Telephone extension ringers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_86>
+  bsdd:code "Pr_70_75_88_86";
+  bsdd:name "Telephone distribution frames" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_60>
+  bsdd:code "Pr_70_75_88_60";
+  bsdd:name "Payphones" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_01>
+  bsdd:code "Pr_70_75_88_01";
+  bsdd:name "Acoustic hoods" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_83>
+  bsdd:code "Pr_70_75_88_83";
+  bsdd:name "Telecommunications system controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_27>
+  bsdd:code "Pr_70_75_88_27";
+  bsdd:name "Emergency roadside telephones" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_24>
+  bsdd:code "Pr_70_75_88_24";
+  bsdd:name "Digital terminals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_94>
+  bsdd:code "Pr_70_75_72_94";
+  bsdd:name "Variable message traffic signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_53>
+  bsdd:code "Pr_70_75_72_53";
+  bsdd:name "Motorway signal mark 3" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_49>
+  bsdd:code "Pr_70_75_72_49";
+  bsdd:name "Mass detectors" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_48>
+  bsdd:code "Pr_70_75_72_48";
+  bsdd:name "Level crossing signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_07>
+  bsdd:code "Pr_70_75_72_07";
+  bsdd:name "Belisha beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_22>
+  bsdd:code "Pr_70_75_72_22";
+  bsdd:name "Detector loops" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_92>
+  bsdd:code "Pr_70_75_72_92";
+  bsdd:name "Urban traffic management signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_51>
+  bsdd:code "Pr_70_75_72_51";
+  bsdd:name "Motorway signal mark 1" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_50>
+  bsdd:code "Pr_70_75_72_50";
+  bsdd:name "Motorway lane signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_89>
+  bsdd:code "Pr_70_75_72_89";
+  bsdd:name "Transilluminated traffic bollards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_87>
+  bsdd:code "Pr_70_75_72_87";
+  bsdd:name "Traffic signal controller units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_61>
+  bsdd:code "Pr_70_75_72_61";
+  bsdd:name "Pedestrian crossing signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_60>
+  bsdd:code "Pr_70_75_72_60";
+  bsdd:name "Pedestrian signal controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_01>
+  bsdd:code "Pr_70_75_72_01";
+  bsdd:name "Above-ground vehicle detection products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_30>
+  bsdd:code "Pr_70_75_72_30";
+  bsdd:name "Fixed vertical road traffic signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_99>
+  bsdd:code "Pr_70_75_72_99";
+  bsdd:name "Wigwag signal control units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_98>
+  bsdd:code "Pr_70_75_72_98";
+  bsdd:name "Wigwag signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_54>
+  bsdd:code "Pr_70_75_72_54";
+  bsdd:name "Motorway signal mark 4" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_96>
+  bsdd:code "Pr_70_75_72_96";
+  bsdd:name "Vehicular traffic signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_95>
+  bsdd:code "Pr_70_75_72_95";
+  bsdd:name "Vehicle-activated signs" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_80>
+  bsdd:code "Pr_70_75_72_80";
+  bsdd:name "Solar-powered illuminated bollards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69_70>
+  bsdd:code "Pr_70_75_69_70";
+  bsdd:name "Radio base stations" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_90>
+  bsdd:code "Pr_70_75_70_90";
+  bsdd:name "Train protection warning signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_60>
+  bsdd:code "Pr_70_75_70_60";
+  bsdd:name "Platform repeaters" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_44>
+  bsdd:code "Pr_70_75_70_44";
+  bsdd:name "Junction indicators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_72>
+  bsdd:code "Pr_70_75_70_72";
+  bsdd:name "Route indicators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_70>
+  bsdd:code "Pr_70_75_70_70";
+  bsdd:name "Rail gap indicator signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_78>
+  bsdd:code "Pr_70_75_70_78";
+  bsdd:name "Semaphore subsidiary signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_77>
+  bsdd:code "Pr_70_75_70_77";
+  bsdd:name "Semaphore signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_65>
+  bsdd:code "Pr_70_75_70_65";
+  bsdd:name "Possession limit boards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_80>
+  bsdd:code "Pr_70_75_70_80";
+  bsdd:name "Signalling relays" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_64>
+  bsdd:code "Pr_70_75_70_64";
+  bsdd:name "Position light signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_89>
+  bsdd:code "Pr_70_75_70_89";
+  bsdd:name "Track circuits" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_63>
+  bsdd:code "Pr_70_75_70_63";
+  bsdd:name "Points operating equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_47>
+  bsdd:code "Pr_70_75_70_47";
+  bsdd:name "Limit of shunt signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_62>
+  bsdd:code "Pr_70_75_70_62";
+  bsdd:name "Points converter devices" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_76>
+  bsdd:code "Pr_70_75_70_76";
+  bsdd:name "Semaphore disc signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_91>
+  bsdd:code "Pr_70_75_70_91";
+  bsdd:name "Treadles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_61>
+  bsdd:code "Pr_70_75_70_61";
+  bsdd:name "Points detection equipment" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_06>
+  bsdd:code "Pr_70_75_70_06";
+  bsdd:name "Banner repeater signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_03>
+  bsdd:code "Pr_70_75_70_03";
+  bsdd:name "Automatic warning signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_07>
+  bsdd:code "Pr_70_75_70_07";
+  bsdd:name "Balises" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_14>
+  bsdd:code "Pr_70_75_70_14";
+  bsdd:name "Colour light signals" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_05>
+  bsdd:code "Pr_70_75_70_05";
+  bsdd:name "Axle counters" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_41>
+  bsdd:code "Pr_70_75_70_41";
+  bsdd:name "In-cab signalling displays" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_85>
+  bsdd:code "Pr_70_75_80_85";
+  bsdd:name "Swimming timing controllers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_84>
+  bsdd:code "Pr_70_75_80_84";
+  bsdd:name "Swimming race start sound generators" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_83>
+  bsdd:code "Pr_70_75_80_83";
+  bsdd:name "Swimmers' touch pads" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_82>
+  bsdd:code "Pr_70_75_80_82";
+  bsdd:name "Swimmers' starting blocks" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_48>
+  bsdd:code "Pr_70_75_80_48";
+  bsdd:name "Lane manual push-buttons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_50>
+  bsdd:code "Pr_70_75_80_50";
+  bsdd:name "Manual scoreboards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_46>
+  bsdd:code "Pr_70_75_80_46";
+  bsdd:name "Lane boxes" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_72>
+  bsdd:code "Pr_70_75_80_72";
+  bsdd:name "Relay race break sensors" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_27>
+  bsdd:code "Pr_70_75_80_27";
+  bsdd:name "Electronic scoreboards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_80>
+  bsdd:code "Pr_70_75_94_80";
+  bsdd:name "Static filament warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_58>
+  bsdd:code "Pr_70_75_94_58";
+  bsdd:name "Overdoor indicator units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_46>
+  bsdd:code "Pr_70_75_94_46";
+  bsdd:name "LED warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_60>
+  bsdd:code "Pr_70_75_94_60";
+  bsdd:name "Panel mounting indicator lights" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_29>
+  bsdd:code "Pr_70_75_94_29";
+  bsdd:name "Flashing filament warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_99>
+  bsdd:code "Pr_70_75_94_99";
+  bsdd:name "Xenon warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_73>
+  bsdd:code "Pr_70_75_94_73";
+  bsdd:name "Rotating warning beacons" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_28>
+  bsdd:code "Pr_70_75_94_28";
+  bsdd:name "Electronic sounders" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_27>
+  bsdd:code "Pr_70_75_94_27";
+  bsdd:name "Electric doorbells" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_42>
+  bsdd:code "Pr_70_75_94_42";
+  bsdd:name "Industrial bells" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_40>
+  bsdd:code "Pr_70_75_94_40";
+  bsdd:name "Indicator lights" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_78>
+  bsdd:code "Pr_70_75_94_78";
+  bsdd:name "Starting strobe lights" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_72>
+  bsdd:code "Pr_70_75_52_72";
+  bsdd:name "Routers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_96>
+  bsdd:code "Pr_70_75_52_96";
+  bsdd:name "Wireless sensor nodes" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_92>
+  bsdd:code "Pr_70_75_52_92";
+  bsdd:name "USB gateway modems" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25> bsdd:childClassification
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75>,
+    <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90>, <https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86>;
+  bsdd:code "Pr_25";
+  bsdd:name "Skin products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96> bsdd:code
+    "Pr_25_96";
+  bsdd:name "Grid and grating skin products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80> bsdd:code
+    "Pr_25_80";
+  bsdd:name "Smoke and fire control products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93> bsdd:code
+    "Pr_25_93";
+  bsdd:name "Unit skin products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57> bsdd:code
+    "Pr_25_57";
+  bsdd:name "Non-rigid sheet, mat and strip skin products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31> bsdd:code
+    "Pr_25_31";
+  bsdd:name "Formless skin products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71> bsdd:code
+    "Pr_25_71";
+  bsdd:name "Rigid board, panel and sheet products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30> bsdd:code
+    "Pr_25_30";
+  bsdd:name "Fixed access products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35> bsdd:code
+    "Pr_25_96_35";
+  bsdd:name "Grids and grilles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30> bsdd:code
+    "Pr_25_96_30";
+  bsdd:name "Gratings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79> bsdd:code
+    "Pr_25_80_79";
+  bsdd:name "Smoke and fire barriers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81> bsdd:code
+    "Pr_25_80_81";
+  bsdd:name "Smoke and fire stopping" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80> bsdd:code
+    "Pr_25_80_80";
+  bsdd:name "Smoke and fire cavity barriers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54> bsdd:code
+    "Pr_25_93_54";
+  bsdd:name "Metal capping and coping units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52> bsdd:code
+    "Pr_25_93_52";
+  bsdd:name "Masonry openings units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51> bsdd:code
+    "Pr_25_93_51";
+  bsdd:name "Masonry dressing units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50> bsdd:code
+    "Pr_25_93_50";
+  bsdd:name "Masonry capping and coping units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47> bsdd:code
+    "Pr_25_93_47";
+  bsdd:name "Level crossing surfacing products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45> bsdd:code
+    "Pr_25_93_45";
+  bsdd:name "Kerb units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60> bsdd:code
+    "Pr_25_93_60";
+  bsdd:name "Paving units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72> bsdd:code
+    "Pr_25_93_72";
+  bsdd:name "Roofing and cladding units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55> bsdd:code
+    "Pr_25_93_55";
+  bsdd:name "Metal sills" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70> bsdd:code
+    "Pr_25_93_70";
+  bsdd:name "Rail track paving" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51> bsdd:code
+    "Pr_25_57_51";
+  bsdd:name "Membranes, liners, flexible sheets and fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06> bsdd:code
+    "Pr_25_57_06";
+  bsdd:name "Batt and quilt products" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21> bsdd:code
+    "Pr_25_57_21";
+  bsdd:name "Damp-proof courses and cavity trays" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90> bsdd:code
+    "Pr_25_57_90";
+  bsdd:name "Tensile, stretch and suspended fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61> bsdd:code
+    "Pr_25_57_61";
+  bsdd:name "Plant fibre-based membranes, liners, flexible sheet and fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56> bsdd:code
+    "Pr_25_57_56";
+  bsdd:name "Netting and non-reinforcement mesh" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85> bsdd:code
+    "Pr_25_57_85";
+  bsdd:name "Synthetic filter fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10> bsdd:code
+    "Pr_25_57_10";
+  bsdd:name "Building papers and vapour permeable sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65> bsdd:code
+    "Pr_25_57_65";
+  bsdd:name "Plastics membranes" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53> bsdd:code
+    "Pr_25_57_53";
+  bsdd:name "Moisture retention sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08> bsdd:code
+    "Pr_25_57_08";
+  bsdd:name "Bitumen-based membranes, sheets and fabrics" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48> bsdd:code
+    "Pr_25_31_48";
+  bsdd:name "Loose insulation" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28> bsdd:code
+    "Pr_25_31_28";
+  bsdd:name "Expanding foams" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97> bsdd:code
+    "Pr_25_71_97";
+  bsdd:name "Wood-based boards" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94> bsdd:code
+    "Pr_25_71_94";
+  bsdd:name "Veneers and facings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53> bsdd:code
+    "Pr_25_71_53";
+  bsdd:name "Mirrors" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52> bsdd:code
+    "Pr_25_71_52";
+  bsdd:name "Mineral-based boards and sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51> bsdd:code
+    "Pr_25_71_51";
+  bsdd:name "Metal sheets and strips" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50> bsdd:code
+    "Pr_25_71_50";
+  bsdd:name "Metal panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63> bsdd:code
+    "Pr_25_71_63";
+  bsdd:name "Plastics-based boards and sheets" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33> bsdd:code
+    "Pr_25_71_33";
+  bsdd:name "Glass and glazing sheets and profiles" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57> bsdd:code
+    "Pr_25_71_57";
+  bsdd:name "Non-metal barrier panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29> bsdd:code
+    "Pr_25_71_29";
+  bsdd:name "Falsework and formwork" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44> bsdd:code
+    "Pr_25_71_44";
+  bsdd:name "Joint fillers" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14> bsdd:code
+    "Pr_25_71_14";
+  bsdd:name "Cladding and lining panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43> bsdd:code
+    "Pr_25_71_43";
+  bsdd:name "Interior linings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42> bsdd:code
+    "Pr_25_71_42";
+  bsdd:name "Infill panels" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30> bsdd:code
+    "Pr_25_30_30";
+  bsdd:name "Floor plates, gratings and edgings" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85> bsdd:code
+    "Pr_25_30_85";
+  bsdd:name "Stair and ladder units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36> bsdd:code
+    "Pr_25_30_36";
+  bsdd:name "Handrails" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75> bsdd:code
+    "Pr_25_30_75";
+  bsdd:name "Safety cages" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90> bsdd:code
+    "Pr_25_30_90";
+  bsdd:name "Treads and landing units" .
+
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86> bsdd:code
+    "Pr_25_30_86";
+  bsdd:name "Surface level traffic control products" .
