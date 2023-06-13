@@ -1,1 +1,3100 @@
-<rect width="10000" height="10000" x="-4500" y="-4500" style="fill: none; pointer-events: all;"></rect><g class="nodes-container" transform="translate(264.2468148969749,216.66817105319444) scale(0.5028692099934233)"><defs><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker><marker class="arrow-marker" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86>marker" viewBox="0 -5 10 10" refX="59" refY="0" markerWidth="10" markerHeight="10" orient="auto"><path d="M0,-5L10,0L0,5 L10,0 L0, -5"></path></marker></defs><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>marker&quot;);" x1="360.3571547910531" y1="279.02767836493547" x2="435.8202770607252" y2="550.3143059789631"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="398.0887159258891" y="414.6709921719493" transform="rotate(74.45516131937477, 398.0887159258891, 414.6709921719493)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="94.6304094004918" y2="884.2498141504893"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="265.2253432306085" y="717.2820600647262" transform="rotate(-44.38436888749115, 265.2253432306085, 717.2820600647262)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="174.40104978779434" y2="92.99992174209004"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="305.11066342425977" y="321.6571138605266" transform="rotate(60.24598438417213, 305.11066342425977, 321.6571138605266)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="-86.66398297447716" y2="484.05037377499116"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="174.578147043124" y="517.1823398769772" transform="rotate(7.227934756287681, 174.578147043124, 517.1823398769772)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="651.5855999461536" y2="57.51001508141348"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="543.7029385034393" y="303.9121605301883" transform="rotate(-66.35467418009816, 543.7029385034393, 303.9121605301883)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="574.7192597581281" y2="1042.72479468755"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="505.26976840942666" y="796.5195503332566" transform="rotate(74.24732028528713, 505.26976840942666, 796.5195503332566)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="952.3084991936169" y2="661.8408971663883"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="694.064388127171" y="606.0776015726758" transform="rotate(12.184937887597952, 694.064388127171, 606.0776015726758)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>marker&quot;);" x1="435.8202770607252" y1="550.3143059789631" x2="288.77571622460925" y2="1059.9855659159632"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="362.2979966426672" y="805.1499359474632" transform="rotate(-73.90669239946507, 362.2979966426672, 805.1499359474632)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35>marker&quot;);" x1="94.6304094004918" y1="884.2498141504893" x2="-200.77558764376153" y2="1082.847642220802"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-53.07258912163486" y="983.5487281856457" transform="rotate(-33.91245640815487, -53.07258912163486, 983.5487281856457)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30>marker&quot;);" x1="94.6304094004918" y1="884.2498141504893" x2="154.11509732805342" y2="618.9624116743128"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="124.37275336427261" y="751.606112912401" transform="rotate(-77.3617605837409, 124.37275336427261, 751.606112912401)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79>marker&quot;);" x1="174.40104978779434" y1="92.99992174209004" x2="3.527150655692332" y2="-221.95077433765016"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="88.96410022174334" y="-64.47542629778006" transform="rotate(61.518321096673944, 88.96410022174334, -64.47542629778006)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81>marker&quot;);" x1="174.40104978779434" y1="92.99992174209004" x2="131.2755532595938" y2="-257.00023643785653"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="152.83830152369407" y="-82.00015734788325" transform="rotate(82.97566860050452, 152.83830152369407, -82.00015734788325)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80>marker&quot;);" x1="174.40104978779434" y1="92.99992174209004" x2="-98.23245485532613" y2="-134.76804654303558"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="38.084297466234105" y="-20.88406240047277" transform="rotate(39.876612284535696, 38.084297466234105, -20.88406240047277)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-430.88075941979355" y2="472.5706180758365"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-258.7723711971354" y="478.3104959254138" transform="rotate(1.9101272860330596, -258.7723711971354, 478.3104959254138)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-317.71563514524695" y2="737.7158597703805"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-202.18980905986206" y="610.8831167726858" transform="rotate(-47.671121606058676, -202.18980905986206, 610.8831167726858)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-365.9579518940915" y2="296.5454159513656"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-226.31096743428432" y="390.2978948631784" transform="rotate(33.875571334141114, -226.31096743428432, 390.2978948631784)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-431.6363472367631" y2="566.902273140733"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-259.1501651056201" y="525.476323457862" transform="rotate(-13.504924922763621, -259.1501651056201, 525.476323457862)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-70.88041777321405" y2="178.09533178445372"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-78.7722003738456" y="331.07285277972244" transform="rotate(-87.04685136211107, -78.7722003738456, 331.07285277972244)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-389.0834624160563" y2="660.4384415108813"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-237.87372269526674" y="572.2444076429363" transform="rotate(-30.253144097840448, -237.87372269526674, 572.2444076429363)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-208.0201672046209" y2="174.97808869935264"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-147.34207508954904" y="329.5142312371719" transform="rotate(68.56271439064359, -147.34207508954904, 329.5142312371719)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-436.92834865879496" y2="369.8205081623533"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-261.79616581663606" y="426.9354409686722" transform="rotate(18.062427264010125, -261.79616581663606, 426.9354409686722)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-193.97641169649444" y2="782.3466655068651"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-140.3201973354858" y="633.1985196409281" transform="rotate(-70.21374775810553, -140.3201973354858, 633.1985196409281)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70>marker&quot;);" x1="-86.66398297447716" y1="484.05037377499116" x2="-319.48149080957864" y2="204.53281100910866"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="-203.0727368920279" y="344.2915923920499" transform="rotate(50.20819765118719, -203.0727368920279, 344.2915923920499)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="710.6915952885772" y2="-255.15916260726286"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="681.1385976173653" y="-98.82457376292469" transform="rotate(-79.29530418300739, 681.1385976173653, -98.82457376292469)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="630.4954579033664" y2="-321.71788885596254"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="641.04052892476" y="-132.10393688727453" transform="rotate(86.81686751322341, 641.04052892476, -132.10393688727453)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="893.4024029785797" y2="-134.07897831078418"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="772.4940014623667" y="-38.28448161468535" transform="rotate(-38.38942730507315, 772.4940014623667, -38.28448161468535)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="951.9211440207047" y2="127.21335289069778"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="801.7533719834291" y="92.36168398605562" transform="rotate(13.06616570945565, 801.7533719834291, 92.36168398605562)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="804.9156492792174" y2="-288.9827414774868"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="728.2506246126854" y="-115.73636319803666" transform="rotate(-66.12964133407237, 728.2506246126854, -115.73636319803666)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="995.9960497841547" y2="-101.44801695276172"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="823.7908248651541" y="-21.96900093567412" transform="rotate(-24.775053190863243, 823.7908248651541, -21.96900093567412)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="451.68467218618" y2="-217.28619019781286"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="551.6351360661668" y="-79.88808755819969" transform="rotate(53.96592557302884, 551.6351360661668, -79.88808755819969)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="386.92236693097976" y2="-111.63417901558016"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="519.2539834385667" y="-27.06208196708334" transform="rotate(32.58232655054485, 519.2539834385667, -27.06208196708334)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="902.6276213396528" y2="-233.49391384632355"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="777.1066106429032" y="-87.99194938245503" transform="rotate(-49.216457737620786, 777.1066106429032, -87.99194938245503)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="993.3297519519022" y2="12.14193500927087"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="822.4576759490278" y="34.825975045342176" transform="rotate(-7.562056486011629, 822.4576759490278, 34.825975045342176)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08>marker&quot;);" x1="651.5855999461536" y1="57.51001508141348" x2="540.0342831369385" y2="-273.26638997673103"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="595.8099415415461" y="-107.87818744765877" transform="rotate(71.36379201509295, 595.8099415415461, -107.87818744765877)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48>marker&quot;);" x1="574.7192597581281" y1="1042.72479468755" x2="798.3300743070224" y2="1321.5738331943428"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="686.5246670325753" y="1182.1493139409463" transform="rotate(51.273652564362905, 686.5246670325753, 1182.1493139409463)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28>marker&quot;);" x1="574.7192597581281" y1="1042.72479468755" x2="665.0467988485703" y2="1390.9656995801304"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="619.8830293033493" y="1216.84524713384" transform="rotate(75.45893752234772, 619.8830293033493, 1216.84524713384)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1326.8196055461387" y2="569.4454246698223"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1139.5640523698778" y="615.6431609181053" transform="rotate(-13.858668452237195, 1139.5640523698778, 615.6431609181053)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1235.3355839934134" y2="799.9073774180243"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1093.8220415935152" y="730.8741372922063" transform="rotate(26.004079695893324, 1093.8220415935152, 730.8741372922063)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1257.8390715605346" y2="898.5750417188436"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1105.0737853770756" y="780.207969442616" transform="rotate(37.76958575240822, 1105.0737853770756, 780.207969442616)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="789.1623897862263" y2="428.22093437312463"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="870.7354444899215" y="545.0309157697565" transform="rotate(55.07187161136517, 870.7354444899215, 545.0309157697565)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1075.154788699608" y2="997.129478417047"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1013.7316439466124" y="829.4851877917176" transform="rotate(69.87768516142614, 1013.7316439466124, 829.4851877917176)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1163.846690613116" y2="946.9818649427677"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1058.0775949033664" y="804.411381054578" transform="rotate(53.429303223953525, 1058.0775949033664, 804.411381054578)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="694.54019409227" y2="797.2006165998968"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="823.4243466429434" y="729.5207568831426" transform="rotate(-27.704936850817717, 823.4243466429434, 729.5207568831426)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="846.3016707510136" y2="954.684250373201"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="899.3050849723152" y="808.2625737697947" transform="rotate(-70.10017048212464, 899.3050849723152, 808.2625737697947)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1194.8859293174464" y2="406.9205546336731"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1073.5972142555315" y="534.3807259000307" transform="rotate(-46.421215890422125, 1073.5972142555315, 534.3807259000307)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1074.0282542421119" y2="374.5682180670367"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1013.1683767178644" y="518.2045576167125" transform="rotate(-67.0372341105955, 1013.1683767178644, 518.2045576167125)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1254.3513429365385" y2="491.43842657938194"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1103.3299210650775" y="576.6396618728852" transform="rotate(-29.430237672907186, 1103.3299210650775, 576.6396618728852)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1327.6862328716" y2="750.1118406594828"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1139.9973660326084" y="705.9763689129356" transform="rotate(13.232821252692819, 1139.9973660326084, 705.9763689129356)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="969.3296590264727" y2="994.4492214639504"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="960.8190791100448" y="828.1450593151694" transform="rotate(87.0704563122824, 960.8190791100448, 828.1450593151694)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42>marker&quot;);" x1="952.3084991936169" y1="661.8408971663883" x2="1274.9499628580515" y2="653.4830631371044"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="1113.629231025834" y="657.6619801517463" transform="rotate(-1.4838810250885883, 1113.629231025834, 657.6619801517463)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30>marker&quot;);" x1="288.77571622460925" y1="1059.9855659159632" x2="31.135447989841605" y2="1293.36900259033"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="159.95558210722544" y="1176.6772842531466" transform="rotate(-42.17185720715915, 159.95558210722544, 1176.6772842531466)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85>marker&quot;);" x1="288.77571622460925" y1="1059.9855659159632" x2="227.3649183942713" y2="1400.003714861098"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="258.07031730944027" y="1229.9946403885306" transform="rotate(-79.76215673852582, 258.07031730944027, 1229.9946403885306)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36>marker&quot;);" x1="288.77571622460925" y1="1059.9855659159632" x2="120.28644426394025" y2="1362.7332539938272"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="204.53108024427476" y="1211.3594099548952" transform="rotate(-60.90259070742319, 204.53108024427476, 1211.3594099548952)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75>marker&quot;);" x1="288.77571622460925" y1="1059.9855659159632" x2="339.93100335729525" y2="1403.9150343649371"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="314.35335979095225" y="1231.95030014045" transform="rotate(81.53997895307756, 314.35335979095225, 1231.95030014045)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90>marker&quot;);" x1="288.77571622460925" y1="1059.9855659159632" x2="-14.203542197172952" y2="1172.4339932678308"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="137.28608701371815" y="1116.2097795918971" transform="rotate(-20.362021635482364, 137.28608701371815, 1116.2097795918971)">childClassification</text></g><g class="link-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86"><line class="link" style="stroke-width: 1px; fill: transparent; marker-end: url(&quot;#https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30>https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86>marker&quot;);" x1="288.77571622460925" y1="1059.9855659159632" x2="451.765915396896" y2="1345.4663736592672"></line><text class="predicate" dy="-0.5em" style="text-anchor: middle;" x="370.27081581075265" y="1202.7259697876152" transform="rotate(60.27656061186675, 370.27081581075265, 1202.7259697876152)">childClassification</text></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="360.3571547910531" cy="279.02767836493547"></circle><foreignObject style="pointer-events: none;" width="168" height="141" x="276.3571547910531" y="208.52767836493547"><div class="node-label-body" style="font-size: 47px;"><div>Pr</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="435.8202770607252" cy="550.3143059789631"></circle><foreignObject style="pointer-events: none;" width="168" height="78" x="351.8202770607252" y="511.31430597896315"><div class="node-label-body" style="font-size: 26px;"><div>Pr_25</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="94.6304094004918" cy="884.2498141504893"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="10.6304094004918" y="857.2498141504893"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_96</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="174.40104978779434" cy="92.99992174209004"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="90.40104978779434" y="65.99992174209004"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_80</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-86.66398297447716" cy="484.05037377499116"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="-170.66398297447716" y="457.05037377499116"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_93</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="651.5855999461536" cy="57.51001508141348"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="567.5855999461536" y="30.510015081413478"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_57</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="574.7192597581281" cy="1042.72479468755"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="490.71925975812815" y="1015.72479468755"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_31</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="952.3084991936169" cy="661.8408971663883"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="868.3084991936169" y="634.8408971663883"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_71</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="288.77571622460925" cy="1059.9855659159632"></circle><foreignObject style="pointer-events: none;" width="168" height="54" x="204.77571622460925" y="1032.9855659159632"><div class="node-label-body" style="font-size: 18px;"><div>Pr_25_30</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-200.77558764376153" cy="1082.847642220802"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-284.7755876437615" y="1058.847642220802"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_96_35</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="154.11509732805342" cy="618.9624116743128"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="70.11509732805342" y="594.9624116743128"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_96_30</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="3.527150655692332" cy="-221.95077433765016"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-80.47284934430766" y="-245.95077433765016"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_80_79</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="131.2755532595938" cy="-257.00023643785653"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="47.275553259593806" y="-281.00023643785653"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_80_81</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-98.23245485532613" cy="-134.76804654303558"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-182.23245485532613" y="-158.76804654303558"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_80_80</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-430.88075941979355" cy="472.5706180758365"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-514.8807594197935" y="448.5706180758365"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_54</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-317.71563514524695" cy="737.7158597703805"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-401.71563514524695" y="713.7158597703805"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_52</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-365.9579518940915" cy="296.5454159513656"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-449.9579518940915" y="272.5454159513656"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_51</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-431.6363472367631" cy="566.902273140733"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-515.6363472367631" y="542.902273140733"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_50</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-70.88041777321405" cy="178.09533178445372"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-154.88041777321405" y="154.09533178445372"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_47</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-389.0834624160563" cy="660.4384415108813"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-473.0834624160563" y="636.4384415108813"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_45</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-208.0201672046209" cy="174.97808869935264"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-292.02016720462086" y="150.97808869935264"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_60</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-436.92834865879496" cy="369.8205081623533"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-520.9283486587949" y="345.8205081623533"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_72</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-193.97641169649444" cy="782.3466655068651"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-277.97641169649444" y="758.3466655068651"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_55</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-319.48149080957864" cy="204.53281100910866"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-403.48149080957864" y="180.53281100910866"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_93_70</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="710.6915952885772" cy="-255.15916260726286"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="626.6915952885772" y="-279.15916260726283"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_51</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="630.4954579033664" cy="-321.71788885596254"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="546.4954579033664" y="-345.71788885596254"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_06</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="893.4024029785797" cy="-134.07897831078418"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="809.4024029785797" y="-158.07897831078418"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_21</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="951.9211440207047" cy="127.21335289069778"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="867.9211440207047" y="103.21335289069778"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_90</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="804.9156492792174" cy="-288.9827414774868"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="720.9156492792174" y="-312.9827414774868"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_61</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="995.9960497841547" cy="-101.44801695276172"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="911.9960497841547" y="-125.44801695276172"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_56</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="451.68467218618" cy="-217.28619019781286"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="367.68467218618" y="-241.28619019781286"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_85</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="386.92236693097976" cy="-111.63417901558016"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="302.92236693097976" y="-135.63417901558017"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_10</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="902.6276213396528" cy="-233.49391384632355"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="818.6276213396528" y="-257.49391384632355"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_65</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="993.3297519519022" cy="12.14193500927087"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="909.3297519519022" y="-11.85806499072913"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_53</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="540.0342831369385" cy="-273.26638997673103"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="456.0342831369385" y="-297.26638997673103"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_57_08</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="798.3300743070224" cy="1321.5738331943428"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="714.3300743070224" y="1297.5738331943428"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_31_48</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="665.0467988485703" cy="1390.9656995801304"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="581.0467988485703" y="1366.9656995801304"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_31_28</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1326.8196055461387" cy="569.4454246698223"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1242.8196055461387" y="545.4454246698223"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_97</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1235.3355839934134" cy="799.9073774180243"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1151.3355839934134" y="775.9073774180243"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_94</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1257.8390715605346" cy="898.5750417188436"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1173.8390715605346" y="874.5750417188436"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_53</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="789.1623897862263" cy="428.22093437312463"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="705.1623897862263" y="404.22093437312463"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_52</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1075.154788699608" cy="997.129478417047"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="991.1547886996079" y="973.129478417047"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_51</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1163.846690613116" cy="946.9818649427677"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1079.846690613116" y="922.9818649427677"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_50</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="694.54019409227" cy="797.2006165998968"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="610.54019409227" y="773.2006165998968"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_63</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="846.3016707510136" cy="954.684250373201"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="762.3016707510136" y="930.684250373201"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_33</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1194.8859293174464" cy="406.9205546336731"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1110.8859293174464" y="382.9205546336731"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_57</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1074.0282542421119" cy="374.5682180670367"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="990.0282542421119" y="350.5682180670367"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_29</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1254.3513429365385" cy="491.43842657938194"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1170.3513429365385" y="467.43842657938194"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_44</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1327.6862328716" cy="750.1118406594828"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1243.6862328716" y="726.1118406594828"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_14</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="969.3296590264727" cy="994.4492214639504"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="885.3296590264727" y="970.4492214639504"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_43</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="1274.9499628580515" cy="653.4830631371044"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="1190.9499628580515" y="629.4830631371044"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_71_42</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="31.135447989841605" cy="1293.36900259033"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-52.86455201015839" y="1269.36900259033"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_30_30</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="227.3649183942713" cy="1400.003714861098"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="143.3649183942713" y="1376.003714861098"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_30_85</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="120.28644426394025" cy="1362.7332539938272"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="36.286444263940254" y="1338.7332539938272"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_30_36</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="339.93100335729525" cy="1403.9150343649371"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="255.93100335729525" y="1379.9150343649371"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_30_75</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="-14.203542197172952" cy="1172.4339932678308"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="-98.20354219717295" y="1148.4339932678308"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_30_90</div></div></foreignObject></g><g class="node-wrapper" id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86"><circle class="node" r="48" style="fill: rgb(255, 128, 128);" cx="451.765915396896" cy="1345.4663736592672"></circle><foreignObject style="pointer-events: none;" width="168" height="48" x="367.765915396896" y="1321.4663736592672"><div class="node-label-body" style="font-size: 16px;"><div>Pr_25_30_86</div></div></foreignObject></g><g class="menu-events"></g></g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 5454.3745 5340.1001"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg629"
+   sodipodi:docname="test.svg"
+   width="5454.3745"
+   height="5340.1001"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs633">
+    <marker
+       style="overflow:visible"
+       id="Arrow3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview631"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15138686"
+     inkscape:cx="2982.4252"
+     inkscape:cy="2754.5322"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg629" />
+  <g
+     class="nodes-container"
+     transform="matrix(2.9314908,0,0,2.9314908,1421.563,1083.8246)"
+     id="g627">
+    <defs
+       id="defs172">
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path4" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path7" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path10" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path13" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path16" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path19" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path22" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path25" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_35&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path28" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_96_30&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path31" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_79&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path34" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_81&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path37" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_80_80&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path40" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_54&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path43" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_52&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path46" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_51&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path49" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_50&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path52" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_47&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path55" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_45&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path58" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_60&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path61" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_72&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path64" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_55&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path67" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_93_70&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path70" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_51&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path73" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_06&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path76" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_21&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path79" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_90&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path82" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_61&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path85" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_56&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path88" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_85&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path91" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_10&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path94" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_65&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path97" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_53&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path100" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_57_08&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path103" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_48&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path106" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_31_28&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path109" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_97&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path112" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_94&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path115" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_53&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path118" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_52&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path121" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_51&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path124" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_50&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path127" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_63&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path130" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_33&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path133" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_57&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path136" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_29&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path139" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_44&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path142" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_14&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path145" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_43&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path148" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_71_42&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path151" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_30&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path154" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_85&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path157" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_36&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path160" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_75&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path163" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_90&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path166" />
+      </marker>
+      <marker
+         class="arrow-marker"
+         id="https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30&gt;https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_25_30_86&gt;marker"
+         viewBox="0 -5 10 10"
+         refX="59"
+         refY="0"
+         markerWidth="10"
+         markerHeight="10"
+         orient="auto">
+        <path
+           d="M 0,-5 10,0 0,5 10,0 0,-5"
+           id="path169" />
+      </marker>
+    </defs>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="506.1875"
+       y="-272.39835"
+       transform="rotate(74.455161)"
+       id="text176">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-312.16925"
+       y="698.13208"
+       transform="rotate(-44.384369)"
+       id="text181">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="430.67065"
+       y="-105.25497"
+       transform="rotate(60.245984)"
+       id="text186">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="238.26114"
+       y="491.10764"
+       transform="rotate(7.2279348)"
+       id="text191">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-60.332413"
+       y="619.948"
+       transform="rotate(-66.354674)"
+       id="text196">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="903.77771"
+       y="-270.04965"
+       transform="rotate(74.24732)"
+       id="text201">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="806.35162"
+       y="445.92883"
+       transform="rotate(12.184938)"
+       id="text206">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-673.16748"
+       y="571.28967"
+       transform="rotate(-73.906692)"
+       id="text211">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-592.79144"
+       y="786.62769"
+       transform="rotate(-33.912456)"
+       id="text216">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-706.18335"
+       y="285.80664"
+       transform="rotate(-77.361761)"
+       id="text221">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-14.246942"
+       y="-108.94363"
+       transform="rotate(61.518321)"
+       id="text226">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-62.693966"
+       y="-161.71901"
+       transform="rotate(82.975669)"
+       id="text231">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="15.837382"
+       y="-40.444221"
+       transform="rotate(39.876612)"
+       id="text236">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-242.68561"
+       y="486.67007"
+       transform="rotate(1.9101273)"
+       id="text241">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-587.77252"
+       y="261.88239"
+       transform="rotate(-47.671122)"
+       id="text246">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="29.653908"
+       y="450.18857"
+       transform="rotate(33.875571)"
+       id="text251">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-374.69858"
+       y="450.42776"
+       transform="rotate(-13.504925)"
+       id="text256">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-334.69147"
+       y="-61.610935"
+       transform="rotate(-87.046851)"
+       id="text261">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-493.78616"
+       y="374.46332"
+       transform="rotate(-30.253144)"
+       id="text266">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="252.86687"
+       y="257.58038"
+       transform="rotate(68.562714)"
+       id="text271">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-116.52203"
+       y="487.06647"
+       transform="rotate(18.062427)"
+       id="text276">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-643.31586"
+       y="82.309441"
+       transform="rotate(-70.213748)"
+       id="text281">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="134.57858"
+       y="376.38257"
+       transform="rotate(50.208198)"
+       id="text286">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="223.62436"
+       y="650.92877"
+       transform="rotate(-79.295304)"
+       id="text291">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-96.30471"
+       y="-647.3869"
+       transform="rotate(86.816868)"
+       id="text296">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="629.26184"
+       y="449.71353"
+       transform="rotate(-38.389427)"
+       id="text301">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="801.87646"
+       y="-91.28688"
+       transform="rotate(13.066166)"
+       id="text306">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="400.53677"
+       y="619.12366"
+       transform="rotate(-66.129641)"
+       id="text311">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="757.17542"
+       y="325.26816"
+       transform="rotate(-24.775053)"
+       id="text316">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="259.90546"
+       y="-493.08475"
+       transform="rotate(53.965926)"
+       id="text321">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="422.95978"
+       y="-302.42694"
+       transform="rotate(32.582327)"
+       id="text326">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="574.2345"
+       y="530.93506"
+       transform="rotate(-49.216458)"
+       id="text331">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="810.72162"
+       y="142.75847"
+       transform="rotate(-7.5620565)"
+       id="text336">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="88.174164"
+       y="-599.04297"
+       transform="rotate(71.363792)"
+       id="text341">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1351.7361"
+       y="203.96704"
+       transform="rotate(51.273653)"
+       id="text346">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1333.5035"
+       y="-294.50897"
+       transform="rotate(75.458938)"
+       id="text351">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="958.92725"
+       y="870.67871"
+       transform="rotate(-13.858668)"
+       id="text356">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1303.5275"
+       y="177.3125"
+       transform="rotate(26.00408)"
+       id="text361">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1351.4066"
+       y="-60.104961"
+       transform="rotate(37.769586)"
+       id="text366">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="945.39325"
+       y="-401.83401"
+       transform="rotate(55.071872)"
+       id="text371">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1127.6031"
+       y="-666.48981"
+       transform="rotate(69.877685)"
+       id="text376">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1276.4584"
+       y="-370.48599"
+       transform="rotate(53.429303)"
+       id="text381">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="389.85406"
+       y="1028.7089"
+       transform="rotate(-27.704937)"
+       id="text386">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-453.89792"
+       y="1120.7206"
+       transform="rotate(-70.10017)"
+       id="text391">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="352.96573"
+       y="1146.119"
+       transform="rotate(-46.421216)"
+       id="text396">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-81.871025"
+       y="1135.0521"
+       transform="rotate(-67.037234)"
+       id="text401">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="677.61066"
+       y="1044.3629"
+       transform="rotate(-29.430238)"
+       id="text406">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1271.332"
+       y="426.27612"
+       transform="rotate(13.232821)"
+       id="text411">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="876.16827"
+       y="-917.23865"
+       transform="rotate(87.070456)"
+       id="text416">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1096.2252"
+       y="686.27966"
+       transform="rotate(-1.483881)"
+       id="text421">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-671.42151"
+       y="979.46326"
+       transform="rotate(-42.171857)"
+       id="text426">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-1164.5431"
+       y="472.57425"
+       transform="rotate(-79.762157)"
+       id="text431">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-959.01624"
+       y="767.79712"
+       transform="rotate(-60.902591)"
+       id="text436">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1264.7926"
+       y="-129.68915"
+       transform="rotate(81.539979)"
+       id="text441">childClassification</text>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="-259.67853"
+       y="1094.2299"
+       transform="rotate(-20.362022)"
+       id="text446">childClassification</text>
+    <g
+       id="g7010"
+       style="stroke:#000000;stroke-width:0.999833">
+      <g
+         id="line174"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 360.35715,279.02768 75.46313,271.28665"
+           id="path7068" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 360.83789,278.89453 -0.96289,0.26758 75.46289,271.28711 0.96484,-0.26953 z"
+           id="path7070" />
+        <g
+           id="g7058">
+          <g
+             id="path7060">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 424.82767,492.14227 -2.13682,10.97234 -7.49577,-8.29286 7.49577,8.29286 2.13682,-10.97234"
+               id="path7064" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 424.33789,492.04687 -1.94531,9.99024 -6.82617,-7.55078 -0.74219,0.66992 8.16601,9.03516 2.32813,-11.95313 z"
+               id="path7066" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line179"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 94.630409,884.24982"
+           id="path7084" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="M 435.4707,549.95703 94.28125,883.89258 94.980469,884.60742 436.16992,550.67187 Z"
+           id="path7086" />
+        <g
+           id="g7074">
+          <g
+             id="path7076">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 140.28526,846.56081 -10.6422,3.4208 3.64868,-10.56624 -3.64868,10.56624 10.6422,-3.4208"
+               id="path7080" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 132.81836,839.25195 -3.97461,11.51172 11.59375,-3.72656 -0.30469,-0.95313 -9.6914,3.11524 3.32226,-9.6211 z"
+               id="path7082" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line184"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 174.40105,92.999924"
+           id="path7100" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 174.83594,92.751953 -0.86914,0.496094 261.41992,457.314453 0.86719,-0.49609 z"
+           id="path7102" />
+        <g
+           id="g7090">
+          <g
+             id="path7092">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 199.33641,146.694 -0.62184,-11.16116 9.30203,6.19921 -9.30203,-6.19921 0.62184,11.16116"
+               id="path7096" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 198.16016,134.5625 0.67773,12.16016 0.99805,-0.0566 -0.56641,-10.16211 8.4707,5.64453 0.55274,-0.83203 z"
+               id="path7098" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line189"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 -86.663986,484.05038"
+           id="path7116" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -86.601562,483.55469 -0.125,0.99218 522.484372,66.26368 0.125,-0.99219 z"
+           id="path7118" />
+        <g
+           id="g7106">
+          <g
+             id="path7108">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -28.771611,496.43178 -9.289894,-6.2174 10.547853,-3.70148 -10.547853,3.70148 9.289894,6.2174"
+               id="path7112" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -27.679687,486.04102 -11.490235,4.0332 10.121094,6.77344 0.554687,-0.83204 -8.458984,-5.66015 9.605469,-3.3711 z"
+               id="path7114" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line194"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 651.58557,57.510014"
+           id="path7132" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="M 651.12695,57.308594 435.36328,550.11328 436.27734,550.51562 652.04297,57.710937 Z"
+           id="path7134" />
+        <g
+           id="g7122">
+          <g
+             id="path7124">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 623.34672,109.54263 8.58953,-7.15389 0.56939,11.16396 -0.56939,-11.16396 -8.58953,7.15389"
+               id="path7128" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 632.38477,101.36523 -9.35743,7.79297 0.63868,0.76758 7.82226,-6.51367 0.51758,10.16602 0.99805,-0.0508 z"
+               id="path7130" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line199"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 574.71924,1042.7249"
+           id="path7148" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 436.30078,550.17773 -0.96094,0.27149 138.89844,492.41208 0.96289,-0.2715 z"
+           id="path7150" />
+        <g
+           id="g7138">
+          <g
+             id="path7140">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 563.51569,984.59305 -2.09701,10.98001 -7.52581,-8.26561 7.52581,8.26561 2.09701,-10.98001"
+               id="path7144" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 563.02539,984.5 -1.91016,9.99609 -6.85351,-7.52539 -0.73828,0.67383 8.19922,9.00391 2.2832,-11.96094 z"
+               id="path7146" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line204"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 952.30847,661.84088"
+           id="path7164" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 435.92578,549.82617 -0.21094,0.97656 516.48828,111.52735 0.21094,-0.97852 z"
+           id="path7166" />
+        <g
+           id="g7154">
+          <g
+             id="path7156">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 895.70248,644.50343 8.71791,6.99686 -10.82824,2.77622 10.82824,-2.77622 -8.71791,-6.99686"
+               id="path7160" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 896.01562,644.11328 -0.62695,0.7793 7.93945,6.37109 -9.85937,2.5293 0.24805,0.9668 11.79687,-3.02344 z"
+               id="path7162" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line209"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 435.82028,550.31433 288.77573,1059.9856"
+           id="path7180" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 435.33984,550.17578 -147.04492,509.67192 0.96094,0.2773 147.04492,-509.67188 z"
+           id="path7182" />
+        <g
+           id="g7170">
+          <g
+             id="path7172">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 309.93118,1004.693 -7.57481,8.2207 -2.03169,-10.9923 2.03169,10.9923 7.57481,-8.2207"
+               id="path7176" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 300.81641,1001.8301 -0.98243,0.1816 2.21289,11.9766 8.25196,-8.9571 -0.73438,-0.6777 -6.89843,7.4863 z"
+               id="path7178" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line214"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 94.630409,884.24982 -200.77559,1082.8477"
+           id="path7196" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 94.351562,883.83398 -295.406252,198.59962 0.5586,0.8281 295.406246,-198.59764 z"
+           id="path7198" />
+        <g
+           id="g7186">
+          <g
+             id="path7188">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -149.03106,1054.0843 -11.08668,1.4296 5.50836,-9.7271 -5.50836,9.7271 11.08668,-1.4296"
+               id="path7192" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -155.04492,1045.541 -6,10.5957 12.07812,-1.5566 -0.1289,-0.9922 -10.09571,1.3027 5.01758,-8.8574 z"
+               id="path7194" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line219"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 94.630409,884.24982 154.1151,618.9624"
+           id="path7212" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 153.62695,618.85352 -59.484372,265.2871 0.976563,0.21875 59.484379,-265.2871 z"
+           id="path7214" />
+        <g
+           id="g7202">
+          <g
+             id="path7204">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 136.33034,675.42946 7.06562,-8.66229 2.69046,10.84987 -2.69046,-10.84987 -7.06562,8.66229"
+               id="path7208" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 143.64062,665.67578 -7.69726,9.4375 0.77344,0.63281 6.43359,-7.88672 2.45117,9.87891 0.97071,-0.24219 z"
+               id="path7210" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line224"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 174.40105,92.999924 3.5271506,-221.95078"
+           id="path7228" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 3.9667969,-222.18945 -0.8789063,0.47656 170.8730494,314.951171 0.8789,-0.476562 z"
+           id="path7230" />
+        <g
+           id="g7218">
+          <g
+             id="path7220">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 27.264112,-167.71626 -0.373866,-11.17221 9.162091,6.40423 -9.162091,-6.40423 0.373866,11.17221"
+               id="path7224" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 26.357422,-179.87109 0.40625,12.17187 1,-0.0332 -0.339844,-10.17188 8.341797,5.83008 0.572266,-0.82031 z"
+               id="path7226" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line229"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 174.40105,92.999924 131.27556,-257.00024"
+           id="path7244" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 131.77148,-257.06055 -0.99218,0.1211 43.125,349.999997 0.99218,-0.121094 z"
+           id="path7246" />
+        <g
+           id="g7234">
+          <g
+             id="path7236">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 133.52787,-197.84153 3.73893,-10.53464 6.18435,9.31193 -6.18435,-9.31193 -3.73893,10.53464"
+               id="path7240" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 137.13086,-209.48633 -4.07422,11.47852 0.94141,0.33398 3.40625,-9.59179 5.63086,8.47851 0.83203,-0.55273 z"
+               id="path7242" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line234"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 174.40105,92.999924 -98.232452,-134.76805"
+           id="path7260" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -97.912109,-135.15234 -0.640625,0.76757 272.632814,227.767582 0.64062,-0.765625 z"
+           id="path7262" />
+        <g
+           id="g7250">
+          <g
+             id="path7252">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -56.166991,-93.110842 -4.467839,-10.246788 10.87813,2.5738 -10.87813,-2.5738 4.467839,10.246788"
+               id="path7256" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -61.492187,-104.07422 4.867187,11.164064 0.916016,-0.400391 -4.06836,-9.330083 9.90625,2.34375 0.228516,-0.97265 z"
+               id="path7258" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line239"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -430.88077,472.57062"
+           id="path7276" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -430.86328,472.07031 -0.0332,1 344.216793,11.48047 0.0332,-1 z"
+           id="path7278" />
+        <g
+           id="g7266">
+          <g
+             id="path7268">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -372.09006,479.53325 -9.82613,-5.32964 10.1594,-4.66313 -10.1594,4.66313 9.82613,5.32964"
+               id="path7272" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -371.96484,469.08594 -11.06836,5.08008 10.70508,5.80664 0.47656,-0.87891 -8.94727,-4.85352 9.25,-4.24609 z"
+               id="path7274" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line244"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -317.71564,737.71588"
+           id="path7292" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -87.033203,483.71289 -231.052737,253.66602 0.74024,0.67382 231.050778,-253.66601 z"
+           id="path7294" />
+        <g
+           id="g7282">
+          <g
+             id="path7284">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -274.29672,697.47133 -10.42857,4.02532 3.03689,-10.75804 -3.03689,10.75804 10.42857,-4.02532"
+               id="path7288" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -282.16992,690.60352 -3.3086,11.71875 11.36133,-4.38477 -0.35937,-0.93164 -9.4961,3.66406 2.76563,-9.79492 z"
+               id="path7290" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line249"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -365.95795,296.54541"
+           id="path7308" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -365.67969,296.13086 -0.55664,0.83008 279.292971,187.5039 0.558593,-0.83007 z"
+           id="path7310" />
+        <g
+           id="g7298">
+          <g
+             id="path7300">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -319.76789,333.57654 -5.51462,-9.72353 11.0876,1.42242 -11.0876,-1.42242 5.51462,9.72353"
+               id="path7304" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -326.21094,323.23047 6.00782,10.5918 0.86914,-0.49219 -5.01954,-8.85352 10.09571,1.29492 0.12695,-0.99218 z"
+               id="path7306" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line254"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m -86.663986,484.05038 -344.972364,82.8519"
+           id="path7324" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -86.78125,483.56445 -344.97266,82.85157 0.23438,0.97265 344.972655,-82.85156 z"
+           id="path7326" />
+        <g
+           id="g7314">
+          <g
+             id="path7316">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -373.10987,557.98732 -10.88932,-2.52604 8.55442,-7.19583 -8.55442,7.19583 10.88932,2.52604"
+               id="path7320" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -375.76562,547.88281 -9.32032,7.83985 11.86328,2.75195 0.22657,-0.97461 -9.91602,-2.29883 7.78906,-6.55273 z"
+               id="path7322" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line259"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -70.880417,178.09534"
+           id="path7340" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -71.378906,178.07031 -15.785156,305.95508 1,0.0508 15.783203,-305.95508 z"
+           id="path7342" />
+        <g
+           id="g7330">
+          <g
+             id="path7332">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -78.912074,236.74957 5.507631,-9.7275 4.477417,10.2426 -4.477417,-10.2426 -5.507631,9.7275"
+               id="path7336" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -73.347656,225.90625 -6,10.59766 0.871094,0.49218 5.013671,-8.85742 4.078125,9.32617 0.916016,-0.40039 z"
+               id="path7338" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line264"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -389.08347,660.43842"
+           id="path7356" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -86.916016,483.61914 -302.419924,176.38672 0.50391,0.86523 302.419921,-176.38867 z"
+           id="path7358" />
+        <g
+           id="g7346">
+          <g
+             id="path7348">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -335.60865,635.03625 -11.15531,0.71906 6.11794,-9.35569 -6.11794,9.35569 11.15531,-0.71906"
+               id="path7352" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -341.06445,626.12695 -6.66407,10.19141 12.15235,-0.7832 -0.0645,-0.99805 -10.15821,0.6543 5.57031,-8.51758 z"
+               id="path7354" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line269"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -208.02017,174.97809"
+           id="path7372" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -207.55469,174.79492 -0.93164,0.36524 121.357424,309.07226 0.929687,-0.36523 z"
+           id="path7374" />
+        <g
+           id="g7362">
+          <g
+             id="path7364">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -191.11362,231.71427 0.9991,-11.13373 8.30752,7.47952 -8.30752,-7.47952 -0.9991,11.13373"
+               id="path7368" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -190.52344,219.54102 -1.08789,12.1289 0.9961,0.0899 0.9082,-10.14063 7.56641,6.8125 0.66796,-0.74219 z"
+               id="path7370" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line274"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -436.92834,369.8205"
+           id="path7388" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -436.77344,369.3457 -0.31054,0.94922 350.265621,114.23047 0.308593,-0.95117 z"
+           id="path7390" />
+        <g
+           id="g7378">
+          <g
+             id="path7380">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -382.39531,392.86337 -7.95559,-7.85282 11.0556,-1.65278 -11.0556,1.65278 7.95559,7.85282"
+               id="path7384" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -379.36914,382.86328 -12.04492,1.80078 8.66797,8.55469 0.70117,-0.71094 -7.24219,-7.15039 10.06641,-1.50586 z"
+               id="path7386" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line279"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -193.97641,782.34668"
+           id="path7404" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -87.134766,483.88086 -107.312504,298.29687 0.94141,0.33789 107.312501,-298.29687 z"
+           id="path7406" />
+        <g
+           id="g7394">
+          <g
+             id="path7396">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -169.30352,728.53149 -8.08857,7.71577 -1.31947,-11.10032 1.31947,11.10032 8.08857,-7.71577"
+               id="path7400" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -178.21484,725.08789 -0.99219,0.11719 1.4375,12.09375 8.81055,-8.40625 -0.68946,-0.72266 -7.36523,7.02539 z"
+               id="path7402" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line284"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M -86.663986,484.05038 -319.48148,204.53281"
+           id="path7420" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m -319.09766,204.21289 -0.76757,0.64063 232.816402,279.51757 0.769531,-0.64062 z"
+           id="path7422" />
+        <g
+           id="g7410">
+          <g
+             id="path7412">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m -285.56905,253.05881 -2.55769,-10.88193 10.24016,4.48301 -10.24016,-4.48301 2.55769,10.88193"
+               id="path7416" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m -288.8418,241.31836 2.78711,11.85547 0.97266,-0.22852 -2.33008,-9.91015 9.32422,4.08203 0.40234,-0.91602 z"
+               id="path7418" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line289"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 710.69159,-255.15916"
+           id="path7436" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 710.20117,-255.25195 -59.10742,312.669919 0.98242,0.185547 59.10742,-312.669926 z"
+           id="path7438" />
+        <g
+           id="g7426">
+          <g
+             id="path7428">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 694.82217,-198.1242 6.76933,-8.89575 3.055,10.75292 -3.055,-10.75292 -6.76933,8.89575"
+               id="path7432" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 701.79883,-208.11719 -7.375,9.68946 0.79687,0.60546 6.16407,-8.0996 2.78125,9.79101 0.96093,-0.27344 z"
+               id="path7434" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line294"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 630.49548,-321.7179"
+           id="path7452" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 630.99414,-321.74609 -0.99805,0.0566 21.08985,379.226559 0.99804,-0.05469 z"
+           id="path7454" />
+        <g
+           id="g7442">
+          <g
+             id="path7444">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 628.7796,-262.5412 4.43627,-10.26049 5.54663,9.70531 -5.54663,-9.70531 -4.43627,10.26049"
+               id="path7448" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 633.1543,-273.91797 -4.83399,11.17774 0.91797,0.39648 4.03906,-9.3418 5.05078,8.83789 0.86915,-0.49609 z"
+               id="path7450" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line299"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 893.4024,-134.07898"
+           id="path7468" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="M 893.0918,-134.4707 651.27539,57.119141 651.89648,57.902344 893.71289,-133.6875 Z"
+           id="path7470" />
+        <g
+           id="g7458">
+          <g
+             id="path7460">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 844.06097,-101.36431 10.94127,-2.29061 -4.73227,10.127374 4.73227,-10.127374 -10.94127,2.29061"
+               id="path7464" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 855.87891,-104.34961 -11.91993,2.49609 0.20508,0.97852 9.96094,-2.08594 -4.30859,9.222659 0.90625,0.421875 z"
+               id="path7466" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line304"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 951.92114,127.21336"
+           id="path7484" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 651.69922,57.023437 -0.22656,0.972657 300.33593,69.705076 0.22461,-0.97461 z"
+           id="path7486" />
+        <g
+           id="g7474">
+          <g
+             id="path7476">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 895.58849,109.00737 8.60927,7.13012 -10.86965,2.60935 10.86965,-2.60935 -8.60927,-7.13012"
+               id="path7480" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 895.9082,108.62305 -0.63867,0.76953 7.8418,6.49219 -9.90039,2.37695 0.23437,0.9707 11.8418,-2.84179 z"
+               id="path7482" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line309"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 804.91565,-288.98273"
+           id="path7500" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="M 804.45898,-289.18555 651.12891,57.308594 652.04297,57.712891 805.37305,-288.78125 Z"
+           id="path7502" />
+        <g
+           id="g7490">
+          <g
+             id="path7492">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 776.47265,-237.06142 8.61756,-7.1201 0.52554,11.1661 -0.52554,-11.1661 -8.61756,7.1201"
+               id="path7496" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 785.54297,-245.20312 -9.38867,7.75585 0.63672,0.77149 7.84765,-6.48438 0.47852,10.16797 0.99804,-0.0469 z"
+               id="path7498" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line314"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 995.99603,-101.44801"
+           id="path7516" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="M 995.78711,-101.90234 651.37695,57.056641 651.79492,57.964844 996.20508,-100.99414 Z"
+           id="path7518" />
+        <g
+           id="g7506">
+          <g
+             id="path7508">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 940.34043,-81.266844 11.17301,0.349174 -6.98315,8.728907 6.98315,-8.728907 -11.17301,-0.349174"
+               id="path7512" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 940.35547,-81.765625 -0.0312,0.998047 10.17383,0.318359 -6.35743,7.947266 0.7793,0.625 7.60742,-9.509766 z"
+               id="path7514" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line319"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 451.68466,-217.28619"
+           id="path7532" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 452.08984,-217.58008 -0.80859,0.58789 199.90039,274.796877 0.80859,-0.58789 z"
+           id="path7534" />
+        <g
+           id="g7522">
+          <g
+             id="path7524">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 482.3439,-166.64197 -1.83902,-11.02616 9.92434,5.14448 -9.92434,-5.14448 1.83902,11.02616"
+               id="path7528" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 479.84766,-178.57227 2.0039,12.01172 0.98633,-0.16406 -1.67578,-10.04101 9.03711,4.68554 0.46094,-0.88672 z"
+               id="path7530" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line324"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 386.92236,-111.63418"
+           id="path7548" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 387.19141,-112.05469 -0.53907,0.8418 264.66407,169.144531 0.53906,-0.84375 z"
+           id="path7550" />
+        <g
+           id="g7538">
+          <g
+             id="path7540">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 433.93643,-75.654966 -5.73267,-9.596595 11.11688,1.171821 -11.11688,-1.171821 5.73267,9.596595"
+               id="path7544" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 427.26172,-85.853516 6.24609,10.455079 0.85742,-0.513672 -5.21875,-8.736328 10.1211,1.066406 0.10547,-0.994141 z"
+               id="path7546" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line329"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 902.62762,-233.49391"
+           id="path7564" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="M 902.25,-233.82031 651.20703,57.183594 651.96484,57.835937 903.00586,-233.16797 Z"
+           id="path7566" />
+        <g
+           id="g7554">
+          <g
+             id="path7556">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 860.30981,-192.09308 10.31622,-4.30509 -2.74566,10.83603 2.74566,-10.83603 -10.31622,4.30509"
+               id="path7560" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 871.35547,-197.24414 -11.23828,4.68945 0.38476,0.92383 9.39258,-3.92187 -2.49805,9.86718 0.96875,0.2461 z"
+               id="path7562" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line334"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 993.32977,12.141935"
+           id="path7580" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 993.26367,11.646484 -341.74414,45.367188 0.13086,0.992187 341.74609,-45.36914 z"
+           id="path7582" />
+        <g
+           id="g7570">
+          <g
+             id="path7572">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 934.1948,14.949346 10.56926,3.639906 -9.25348,6.271463 9.25348,-6.271463 -10.56926,-3.639906"
+               id="path7576" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 934.35742,14.476563 -0.32617,0.945312 9.625,3.314453 -8.42578,5.710938 0.56055,0.828125 10.08007,-6.833985 z"
+               id="path7578" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line339"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 651.58557,57.510014 540.0343,-273.26639"
+           id="path7596" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 540.50781,-273.42578 -0.94726,0.31836 111.55078,330.777342 0.94726,-0.320313 z"
+           id="path7598" />
+        <g
+           id="g7586">
+          <g
+             id="path7588">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 554.14803,-215.77179 1.542,-11.0716 7.93208,7.87655 -7.93208,-7.87655 -1.542,11.0716"
+               id="path7592" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 555.33203,-227.90234 -1.67969,12.0625 0.99024,0.13672 1.40429,-10.08008 7.22266,7.17187 0.70508,-0.71094 z"
+               id="path7594" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line344"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 574.71924,1042.7249 223.61084,278.849"
+           id="path7612" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 575.10937,1042.4121 -0.77929,0.625 223.60937,278.8496 0.78125,-0.625 z"
+           id="path7614" />
+        <g
+           id="g7602">
+          <g
+             id="path7604">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 765.32583,1272.4257 2.3549,10.9276 -10.15503,-4.6727 10.15503,4.6727 -2.3549,-10.9276"
+               id="path7608" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 765.81445,1272.3203 -0.97656,0.211 2.14258,9.9492 -9.2461,-4.2539 -0.41796,0.9082 11.06445,5.0898 z"
+               id="path7610" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line349"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 574.71924,1042.7249 90.32757,348.2408"
+           id="path7628" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 575.20312,1042.5996 -0.96875,0.25 90.32813,348.2422 0.96875,-0.252 z"
+           id="path7630" />
+        <g
+           id="g7618">
+          <g
+             id="path7620">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 655.07496,1332.61 -2.32871,10.9332 -7.34935,-8.4229 7.34935,8.4229 2.32871,-10.9332"
+               id="path7624" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 654.58594,1332.5059 -2.11914,9.955 -6.69336,-7.6699 -0.75391,0.6582 8.00781,9.1758 2.53711,-11.9102 z"
+               id="path7626" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line354"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1326.8196,569.44543"
+           id="path7644" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 1326.6992,568.96094 -374.50975,92.39453 0.23828,0.9707 374.51177,-92.39453 z"
+           id="path7646" />
+        <g
+           id="g7634">
+          <g
+             id="path7636">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1268.3493,578.72157 10.9047,2.45876 -8.5099,7.24851 8.5099,-7.24851 -10.9047,-2.45876"
+               id="path7640" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1268.459,578.23437 -0.2188,0.97461 9.9297,2.23829 -7.75,6.60156 0.6485,0.75976 9.2714,-7.89648 z"
+               id="path7642" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line359"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1235.3356,799.90735"
+           id="path7660" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.52734,661.39062 -0.4375,0.9004 283.02736,138.0664 0.4375,-0.89844 z"
+           id="path7662" />
+        <g
+           id="g7650">
+          <g
+             id="path7652">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1184.5092,769.55095 6.7944,8.87668 -11.178,0.10944 11.178,-0.10944 -6.7944,-8.87668"
+               id="path7656" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1184.9063,769.24805 -0.795,0.60742 6.1875,8.08203 -10.1777,0.0996 0.01,1 12.1777,-0.11914 z"
+               id="path7658" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line364"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1257.8391,898.57501"
+           id="path7676" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.61523,661.44531 -0.61328,0.79102 305.53125,236.73437 0.6113,-0.79101 z"
+           id="path7678" />
+        <g
+           id="g7666">
+          <g
+             id="path7668">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1214.2705,858.49256 4.8416,10.07559 -10.9654,-2.17211 10.9654,2.17211 -4.8416,-10.07559"
+               id="path7672" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1214.7207,858.27539 -0.9004,0.43359 4.4082,9.17579 -9.9844,-1.97852 -0.1953,0.98047 11.9473,2.36523 z"
+               id="path7674" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line369"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 789.16241,428.22095"
+           id="path7692" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 789.57227,427.93555 -0.82032,0.57226 163.14649,233.61914 0.82031,-0.57226 z"
+           id="path7694" />
+        <g
+           id="g7682">
+          <g
+             id="path7684">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 818.83844,479.4475 -1.62585,-11.0596 9.82319,5.33507 -9.82319,-5.33507 1.62585,11.0596"
+               id="path7688" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 816.57227,467.4707 1.77148,12.04883 0.98828,-0.14453 -1.48047,-10.07227 8.94531,4.85938 0.47657,-0.87891 z"
+               id="path7690" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line374"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1075.1548,997.12946"
+           id="path7708" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.77734,661.66797 -0.9375,0.3457 122.84566,335.28711 0.9395,-0.34375 z"
+           id="path7710" />
+        <g
+           id="g7698">
+          <g
+             id="path7700">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1059.5547,940.02023 -1.2543,11.10787 -8.1337,-7.66819 8.1337,7.66819 1.2543,-11.10787"
+               id="path7704" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1059.0586,939.96484 -1.1426,10.11524 -7.4062,-6.98438 -0.6856,0.72852 8.8613,8.35351 1.3653,-12.10156 z"
+               id="path7706" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line379"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1163.8467,946.98187"
+           id="path7724" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.71094,661.54297 -0.80469,0.5957 211.53905,285.14063 0.8027,-0.59571 z"
+           id="path7726" />
+        <g
+           id="g7714">
+          <g
+             id="path7716">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1132.7145,896.62702 1.9422,11.00845 -9.9721,-5.05131 9.9721,5.05131 -1.9422,-11.00845"
+               id="path7720" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1133.207,896.54102 -0.9843,0.17187 1.7675,10.02539 -9.08,-4.59961 -0.4512,0.89063 10.8633,5.5039 z"
+               id="path7722" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line384"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 694.54022,797.20062"
+           id="path7740" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.07617,661.39844 -257.76758,135.35937 0.46485,0.88477 257.76758,-135.35938 z"
+           id="path7742" />
+        <g
+           id="g7730">
+          <g
+             id="path7732">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 749.09154,774.20105 -11.17626,0.22238 6.52785,-9.07443 -6.52785,9.07443 11.17626,-0.22238"
+               id="path7736" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 744.03711,765.05664 -7.11133,9.88672 12.17578,-0.24219 -0.0195,-1 -10.17773,0.20313 5.94531,-8.26368 z"
+               id="path7738" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line389"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 846.3017,954.68427"
+           id="path7756" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 951.83789,661.66992 -106.00586,292.84375 0.93945,0.33985 106.00782,-292.8418 z"
+           id="path7758" />
+        <g
+           id="g7746">
+          <g
+             id="path7748">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 871.08121,900.91809 -8.10385,7.69972 -1.29747,-11.10292 1.29747,11.10292 8.10385,-7.69972"
+               id="path7752" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 862.17578,897.45703 -0.99219,0.11524 1.41407,12.0957 8.82812,-8.38672 -0.68945,-0.72461 -7.37891,7.00977 z"
+               id="path7754" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line394"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1194.886,406.92056"
+           id="path7772" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 1194.5234,406.57617 -242.57613,254.91992 0.72265,0.68946 242.57808,-254.91993 z"
+           id="path7774" />
+        <g
+           id="g7762">
+          <g
+             id="path7764">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1150.5995,446.20842 10.5139,-3.79688 -3.2708,10.68924 3.2708,-10.68924 -10.5139,3.79688"
+               id="path7768" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1161.8848,441.60156 -11.4551,4.13672 0.3398,0.93945 9.5723,-3.45703 -2.9766,9.73438 0.9551,0.29101 z"
+               id="path7770" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line399"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1074.0282,374.56821"
+           id="path7788" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 1073.5684,374.37305 -121.72074,287.27343 0.92187,0.38868 121.71877,-287.27149 z"
+           id="path7790" />
+        <g
+           id="g7778">
+          <g
+             id="path7780">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1046.4112,426.93353 8.5037,-7.25571 0.7023,11.15639 -0.7023,-11.15639 -8.5037,7.25571"
+               id="path7784" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1055.3516,418.64844 -9.2657,7.90429 0.6504,0.76172 7.7422,-6.60547 0.6406,10.15625 0.9961,-0.0625 z"
+               id="path7786" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line404"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1254.3513,491.43842"
+           id="path7804" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 1254.1055,491.00391 -302.043,170.40234 0.49219,0.86914 302.04301,-170.40234 z"
+           id="path7806" />
+        <g
+           id="g7794">
+          <g
+             id="path7796">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1200.5172,516.06996 11.1645,-0.55877 -6.2517,9.26686 6.2517,-9.26686 -11.1645,0.55877"
+               id="path7800" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1212.6543,514.96289 -12.1621,0.60742 0.051,0.99805 10.166,-0.50781 -5.6934,8.4375 0.8282,0.55859 z"
+               id="path7802" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line409"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 952.30847,661.84088 375.37783,88.27094"
+           id="path7820" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.42383,661.35352 -0.23047,0.9746 375.37894,88.26954 0.2285,-0.97266 z"
+           id="path7822" />
+        <g
+           id="g7810">
+          <g
+             id="path7812">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1271.4068,731.74205 8.5885,7.15513 -10.8772,2.57772 10.8772,-2.57772 -8.5885,-7.15513"
+               id="path7816" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1271.7266,731.35742 -0.6407,0.76953 7.8204,6.51367 -9.9043,2.34766 0.2304,0.97266 11.8516,-2.8086 z"
+               id="path7818" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line414"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 952.30847,661.84088 17.02118,332.60834"
+           id="path7836" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 952.80859,661.81445 -1,0.0527 17.02149,332.60742 0.99804,-0.0508 z"
+           id="path7838" />
+        <g
+           id="g7826">
+          <g
+             id="path7828">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 971.30742,935.28069 -4.48164,10.24076 -5.50362,-9.72976 5.50362,9.72976 4.48164,-10.24076"
+               id="path7832" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 970.84961,935.08008 -4.08203,9.32422 -5.00977,-8.85938 -0.87109,0.49219 5.99609,10.59961 4.88281,-11.15625 z"
+               id="path7834" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line419"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 952.30847,661.84088 1274.95,653.48309"
+           id="path7852" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 1274.9375,652.98242 -322.64258,8.35938 0.0273,0.99804 322.64058,-8.35742 z"
+           id="path7854" />
+        <g
+           id="g7842">
+          <g
+             id="path7844">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 1215.8502,650.01319 10.1244,4.73857 -9.8655,5.2564 9.8655,-5.2564 -10.1244,-4.73857"
+               id="path7848" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 1216.0625,649.56055 -0.4238,0.90625 9.2187,4.31445 -8.9824,4.78516 0.4688,0.88281 10.748,-5.72656 z"
+               id="path7850" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line424"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 288.77573,1059.9856 31.135448,1293.369"
+           id="path7868" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 288.43945,1059.6152 -257.638669,233.3828 0.669922,0.7422 257.640627,-233.3847 z"
+           id="path7870" />
+        <g
+           id="g7858">
+          <g
+             id="path7860">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 78.211282,1257.4707 -10.766324,3.0074 4.053882,-10.4175 -4.053882,10.4175 10.766324,-3.0074"
+               id="path7864" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 71.033203,1249.8789 -4.416016,11.3496 11.728516,-3.2773 -0.269531,-0.961 -9.802735,2.7364 3.691407,-9.4844 z"
+               id="path7866" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line429"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 288.77573,1059.9856 -61.41082,340.0181"
+           id="path7884" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 288.2832,1059.8965 -61.41015,340.0176 0.98437,0.1777 61.41016,-340.0176 z"
+           id="path7886" />
+        <g
+           id="g7874">
+          <g
+             id="path7876">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 242.76908,1342.8413 -6.69662,8.9506 -3.14251,-10.7277 3.14251,10.7277 6.69662,-8.9506"
+               id="path7880" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 233.41016,1340.9238 -0.95899,0.2813 3.42188,11.6875 7.29687,-9.752 -0.80078,-0.5996 -6.09766,8.1504 z"
+               id="path7882" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line434"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 288.77573,1059.9856 120.28645,1362.7333"
+           id="path7900" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 288.33984,1059.7422 -168.49023,302.748 0.87305,0.4864 168.49023,-302.7481 z"
+           id="path7902" />
+        <g
+           id="g7890">
+          <g
+             id="path7892">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 153.34135,1313.6191 -9.23039,6.3054 0.49391,-11.1675 -0.49391,11.1675 9.23039,-6.3054"
+               id="path7896" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 144.10547,1308.7344 -0.53711,12.166 10.05469,-6.8691 -0.56446,-0.8243 -8.40429,5.7403 0.44922,-10.168 z"
+               id="path7898" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line439"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 288.77573,1059.9856 339.931,1403.915"
+           id="path7916" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 289.26953,1059.9121 -0.98828,0.1465 51.1543,343.9297 0.99023,-0.1465 z"
+           id="path7918" />
+        <g
+           id="g7906">
+          <g
+             id="path7908">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 336.19718,1344.8313 -3.47382,10.625 -6.41571,-9.154 6.41571,9.154 3.47382,-10.625"
+               id="path7912" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 335.72266,1344.6758 -3.16407,9.6758 -5.84179,-8.336 -0.81836,0.5742 6.99023,9.9727 3.7832,-11.5762 z"
+               id="path7914" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line444"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="M 288.77573,1059.9856 -14.203542,1172.434"
+           id="path7932" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 288.60156,1059.5176 -302.978513,112.4472 0.347656,0.9375 302.978517,-112.4472 z"
+           id="path7934" />
+        <g
+           id="g7922">
+          <g
+             id="path7924">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 42.83992,1156.5951 -11.113021,-1.2079 7.634098,-8.1657 -7.634098,8.1657 11.113021,1.2079"
+               id="path7928" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 38.996094,1146.8809 -8.316407,8.8945 12.105469,1.3164 0.109375,-0.9941 -10.121094,-1.0997 6.953125,-7.4355 z"
+               id="path7930" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="line449"
+         class="link">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999833;-inkscape-stroke:none"
+           d="m 288.77573,1059.9856 162.9902,285.4808"
+           id="path7948" />
+        <path
+           style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+           d="m 289.20898,1059.7383 -0.86718,0.4961 162.99023,285.4804 0.86719,-0.496 z"
+           id="path7950" />
+        <g
+           id="g7938">
+          <g
+             id="path7940">
+            <path
+               style="color:#000000;fill:#000000;stroke:none;stroke-width:0.999665;-inkscape-stroke:none"
+               d="m 426.85922,1291.7591 0.61589,11.1614 -9.29872,-6.2041 9.29872,6.2041 -0.61589,-11.1614"
+               id="path7944" />
+            <path
+               style="color:#000000;fill:#000000;stroke:none;-inkscape-stroke:none"
+               d="m 427.35742,1291.7324 -0.99805,0.055 0.5625,10.1621 -8.46875,-5.6484 -0.55468,0.832 10.13086,6.7578 z"
+               id="path7946" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       class="predicate"
+       dy="-6"
+       style="text-anchor:middle"
+       x="1228.0673"
+       y="274.77448"
+       transform="rotate(60.276561)"
+       id="text451">childClassification</text>
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="360.35715"
+       cy="279.02768"
+       id="circle454" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="435.82028"
+       cy="550.31433"
+       id="circle457" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="94.630409"
+       cy="884.24982"
+       id="circle460" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="174.40105"
+       cy="92.999924"
+       id="circle463" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-86.663986"
+       cy="484.05038"
+       id="circle466" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="651.58557"
+       cy="57.510014"
+       id="circle469" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="574.71924"
+       cy="1042.7249"
+       id="circle472" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="952.30847"
+       cy="661.84088"
+       id="circle475" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="288.77573"
+       cy="1059.9856"
+       id="circle478" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-200.77559"
+       cy="1082.8477"
+       id="circle481" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="154.1151"
+       cy="618.9624"
+       id="circle484" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="3.5271506"
+       cy="-221.95078"
+       id="circle487" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="131.27556"
+       cy="-257.00024"
+       id="circle490" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-98.232452"
+       cy="-134.76805"
+       id="circle493" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-430.88077"
+       cy="472.57062"
+       id="circle496" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-317.71564"
+       cy="737.71588"
+       id="circle499" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-365.95795"
+       cy="296.54541"
+       id="circle502" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-431.63635"
+       cy="566.90228"
+       id="circle505" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-70.880417"
+       cy="178.09534"
+       id="circle508" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-389.08347"
+       cy="660.43842"
+       id="circle511" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-208.02017"
+       cy="174.97809"
+       id="circle514" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-436.92834"
+       cy="369.8205"
+       id="circle517" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-193.97641"
+       cy="782.34668"
+       id="circle520" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-319.48148"
+       cy="204.53281"
+       id="circle523" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="710.69159"
+       cy="-255.15916"
+       id="circle526" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="630.49548"
+       cy="-321.7179"
+       id="circle529" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="893.4024"
+       cy="-134.07898"
+       id="circle532" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="951.92114"
+       cy="127.21336"
+       id="circle535" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="804.91565"
+       cy="-288.98273"
+       id="circle538" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="995.99603"
+       cy="-101.44801"
+       id="circle541" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="451.68466"
+       cy="-217.28619"
+       id="circle544" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="386.92236"
+       cy="-111.63418"
+       id="circle547" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="902.62762"
+       cy="-233.49391"
+       id="circle550" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="993.32977"
+       cy="12.141935"
+       id="circle553" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="540.0343"
+       cy="-273.26639"
+       id="circle556" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="798.33008"
+       cy="1321.5739"
+       id="circle559" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="665.04681"
+       cy="1390.9657"
+       id="circle562" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1326.8196"
+       cy="569.44543"
+       id="circle565" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1235.3356"
+       cy="799.90735"
+       id="circle568" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1257.8391"
+       cy="898.57501"
+       id="circle571" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="789.16241"
+       cy="428.22095"
+       id="circle574" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1075.1548"
+       cy="997.12946"
+       id="circle577" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1163.8467"
+       cy="946.98187"
+       id="circle580" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="694.54022"
+       cy="797.20062"
+       id="circle583" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="846.3017"
+       cy="954.68427"
+       id="circle586" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1194.886"
+       cy="406.92056"
+       id="circle589" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1074.0282"
+       cy="374.56821"
+       id="circle592" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1254.3513"
+       cy="491.43842"
+       id="circle595" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1327.6863"
+       cy="750.11182"
+       id="circle598" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="969.32965"
+       cy="994.44922"
+       id="circle601" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="1274.95"
+       cy="653.48309"
+       id="circle604" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="31.135448"
+       cy="1293.369"
+       id="circle607" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="227.36491"
+       cy="1400.0037"
+       id="circle610" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="120.28645"
+       cy="1362.7333"
+       id="circle613" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="339.931"
+       cy="1403.915"
+       id="circle616" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="-14.203542"
+       cy="1172.434"
+       id="circle619" />
+    <circle
+       class="node"
+       r="48"
+       style="fill:#ff8080"
+       cx="451.76593"
+       cy="1345.4664"
+       id="circle622" />
+  </g>
+</svg>
