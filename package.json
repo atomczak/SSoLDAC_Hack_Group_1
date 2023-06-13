@@ -11,7 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "comlink": "^4.3.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/lab": "^5.0.0-alpha.130",
+    "@mui/material": "^5.13.0",
+    "@mui/system": "^5.13.1",
     "mui": "^0.0.1",
     "oxigraph": "^0.3.17",
     "react": "^18.2.0",

@@ -1,5 +1,14 @@
 import { dbController } from "../../services/dependency_injection";
+import styled from "@emotion/styled";
+import { Box } from "@mui/material";
 
+
+const AppBox = styled(Box)`,
+    display: flex;
+    margin: 0
+    width: 100vw;
+    height: 100vh;
+`
 
 const App = () => {
 
@@ -14,10 +23,10 @@ const App = () => {
   }
 
   return (
-    <div>
+    <AppBox>
       <h1>App</h1>
       <button onClick={backgroundClick} id="backgroundToggle">Change background</button>
-    </div>
+    </AppBox>
   );
 };
 
