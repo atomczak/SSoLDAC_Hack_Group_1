@@ -1,0 +1,755 @@
+{
+  "head" : {
+    "vars" : [
+      "x",
+      "code",
+      "name"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-E__"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Emitting object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EE_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EE_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Wireless power object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EV_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EV_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Acoustic wave emitting object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EB_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EB_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric heating object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EP_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EP_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Thermal heating object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EM_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EM_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Combustion heating object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EC_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EC_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric cooling object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ET_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ET_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Nuclear powered heating object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQ_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EQ_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Thermal cooling object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EG_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EG_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Thermal energy transfer object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EU_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EU_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Particle emitting object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EA_"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EA_"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Light object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEE"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EEE"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Capacitive coupler"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EED"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EED"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Gamma ray source"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EEC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "X-ray source"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EEB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Magnetron"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EEA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Inductive power antenna"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EVB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Anti-noise loudspeaker"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EVA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Sonar"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBG"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBG"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Infrared heater"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBF"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBF"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Induction heater"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBE"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBE"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Arc heating object"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBD"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBD"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric hot air blower"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heating cable"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric heating surface"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric boiler"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBH"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EBH"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric oven"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPD"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EPD"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Hot air blower"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EPC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heating panel"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EPB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heating tube"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EPA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heating surface"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EMA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Stove"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EMC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Burner"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EMB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Combustion boiler"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ECA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric cooling surface"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ECC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Compression chiller"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ECB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric cold air blower"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ETA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Boiling water reactor"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ETC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "High-temperature gas-cooled reactor"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-ETB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Pressurized water reactor"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EQA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Cooling surface"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQE"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EQE"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Cooling tube"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQD"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EQD"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Cooler"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EQC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Chiller"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EQB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Cooling panel"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EGB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Peltier element"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EGA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heat pump"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EGC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heat exchanger"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EUB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Particle generator"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EUA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Plasma generator"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAC"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EAC"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Liqiud lamp"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAB"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EAB"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Gas lamp"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAA"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "L-EAA"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric lamp"
+        }
+      }
+    ]
+  }
+}
