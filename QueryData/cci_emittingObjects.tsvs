@@ -1,0 +1,54 @@
+?x	?code	?name
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-E__>	L-E__	Emitting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EE_>	L-EE_	Wireless power object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EV_>	L-EV_	Acoustic wave emitting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EB_>	L-EB_	Electric heating object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EP_>	L-EP_	Thermal heating object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EM_>	L-EM_	Combustion heating object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EC_>	L-EC_	Electric cooling object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ET_>	L-ET_	Nuclear powered heating object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQ_>	L-EQ_	Thermal cooling object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EG_>	L-EG_	Thermal energy transfer object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EU_>	L-EU_	Particle emitting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EA_>	L-EA_	Light object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEE>	L-EEE	Capacitive coupler
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EED>	L-EED	Gamma ray source
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEC>	L-EEC	X-ray source
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEB>	L-EEB	Magnetron
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EEA>	L-EEA	Inductive power antenna
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVB>	L-EVB	Anti-noise loudspeaker
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EVA>	L-EVA	Sonar
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBG>	L-EBG	Infrared heater
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBF>	L-EBF	Induction heater
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBE>	L-EBE	Arc heating object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBD>	L-EBD	Electric hot air blower
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBC>	L-EBC	Heating cable
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBB>	L-EBB	Electric heating surface
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBA>	L-EBA	Electric boiler
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EBH>	L-EBH	Electric oven
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPD>	L-EPD	Hot air blower
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPC>	L-EPC	Heating panel
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPB>	L-EPB	Heating tube
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EPA>	L-EPA	Heating surface
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMA>	L-EMA	Stove
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMC>	L-EMC	Burner
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EMB>	L-EMB	Combustion boiler
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECA>	L-ECA	Electric cooling surface
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECC>	L-ECC	Compression chiller
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ECB>	L-ECB	Electric cold air blower
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETA>	L-ETA	Boiling water reactor
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETC>	L-ETC	High-temperature gas-cooled reactor
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-ETB>	L-ETB	Pressurized water reactor
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQA>	L-EQA	Cooling surface
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQE>	L-EQE	Cooling tube
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQD>	L-EQD	Cooler
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQC>	L-EQC	Chiller
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EQB>	L-EQB	Cooling panel
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGB>	L-EGB	Peltier element
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGA>	L-EGA	Heat pump
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EGC>	L-EGC	Heat exchanger
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUB>	L-EUB	Particle generator
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EUA>	L-EUA	Plasma generator
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAC>	L-EAC	Liqiud lamp
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAB>	L-EAB	Gas lamp
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-EAA>	L-EAA	Electric lamp

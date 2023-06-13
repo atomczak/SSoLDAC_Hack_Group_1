@@ -1,0 +1,123 @@
+?x	?code	?name
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70>	Pr_70	Services and process outlet products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75>	Pr_70_75	Communications products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60>	Pr_70_60	Space heating and cooling products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55>	Pr_70_55	Liquid and gas outlet products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70>	Pr_70_70	Power and lighting outlet products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65>	Pr_70_65	Air and fume outlet products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50>	Pr_70_50	Solid waste disposal products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_04>	Pr_70_75_04	Audio, data and visual outlet plates and controllers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88>	Pr_70_75_88	Telecoms equipment
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72>	Pr_70_75_72	Road traffic and pedestrian control signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_01>	Pr_70_75_01	Aeronautical lighting products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69>	Pr_70_75_69	Radio communications products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70>	Pr_70_75_70	Rail signals, indicators and controls
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80>	Pr_70_75_80	Sports timing and scoring equipment
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94>	Pr_70_75_94	Visual and audible indicators
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52>	Pr_70_75_52	Computer network products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_36>	Pr_70_75_36	Hearing and assisted listening products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_06>	Pr_70_75_06	Audio output devices
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_82>	Pr_70_60_82	Space heating fittings and equipment
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_37>	Pr_70_60_37	Heat pumps
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_36>	Pr_70_60_36	Heat emitters
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_60>	Pr_70_60_60	Pavement heating products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_14>	Pr_70_60_14	Climatic beams and ceilings
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_51>	Pr_70_55_51	Medical gases outlets
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_76>	Pr_70_55_76	Sewage treatment plant
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_33>	Pr_70_55_33	Gas and foam nozzles and sprinklers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_62>	Pr_70_55_62	Phase change outlet products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_58>	Pr_70_55_58	Oil and grease lubricant supply products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_98>	Pr_70_55_98	Water inlets and outlets
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_42>	Pr_70_55_42	Irrigation water outlets
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_97>	Pr_70_55_97	Water fire extinguishing outlets
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_96>	Pr_70_55_96	Waste water outlets and plugs
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_48>	Pr_70_70_48	Luminaires, lighting track and lighting accessories
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_47>	Pr_70_70_47	Lighting controls and lighting distribution products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_46>	Pr_70_70_46	Lamps
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_70>	Pr_70_70_70	Rail power products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_04>	Pr_70_65_04	Air terminals and diffusers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_03>	Pr_70_65_03	Air conditioning units
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_30>	Pr_70_65_30	Flues and chimneys
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_71>	Pr_70_50_71	Refuse disposal equipment
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_85>	Pr_70_50_85	Solid waste compactor products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_80>	Pr_70_50_80	Solid waste balers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_22>	Pr_70_75_88_22	Digital enhanced cordless telecommunications (DECT) telephone handsets
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_21>	Pr_70_75_88_21	Data and telecom transient overvoltage surge suppression devices
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_89>	Pr_70_75_88_89	Telephone operator consoles
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_03>	Pr_70_75_88_03	Analogue telephone handsets
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_87>	Pr_70_75_88_87	Telephone extension ringers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_86>	Pr_70_75_88_86	Telephone distribution frames
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_60>	Pr_70_75_88_60	Payphones
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_01>	Pr_70_75_88_01	Acoustic hoods
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_83>	Pr_70_75_88_83	Telecommunications system controllers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_27>	Pr_70_75_88_27	Emergency roadside telephones
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_24>	Pr_70_75_88_24	Digital terminals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_94>	Pr_70_75_72_94	Variable message traffic signs
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_53>	Pr_70_75_72_53	Motorway signal mark 3
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_49>	Pr_70_75_72_49	Mass detectors
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_48>	Pr_70_75_72_48	Level crossing signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_07>	Pr_70_75_72_07	Belisha beacons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_22>	Pr_70_75_72_22	Detector loops
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_92>	Pr_70_75_72_92	Urban traffic management signs
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_51>	Pr_70_75_72_51	Motorway signal mark 1
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_50>	Pr_70_75_72_50	Motorway lane signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_89>	Pr_70_75_72_89	Transilluminated traffic bollards
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_87>	Pr_70_75_72_87	Traffic signal controller units
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_61>	Pr_70_75_72_61	Pedestrian crossing signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_60>	Pr_70_75_72_60	Pedestrian signal controllers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_01>	Pr_70_75_72_01	Above-ground vehicle detection products
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_30>	Pr_70_75_72_30	Fixed vertical road traffic signs
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_99>	Pr_70_75_72_99	Wigwag signal control units
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_98>	Pr_70_75_72_98	Wigwag signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_54>	Pr_70_75_72_54	Motorway signal mark 4
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_96>	Pr_70_75_72_96	Vehicular traffic signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_95>	Pr_70_75_72_95	Vehicle-activated signs
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_80>	Pr_70_75_72_80	Solar-powered illuminated bollards
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69_70>	Pr_70_75_69_70	Radio base stations
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_90>	Pr_70_75_70_90	Train protection warning signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_60>	Pr_70_75_70_60	Platform repeaters
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_44>	Pr_70_75_70_44	Junction indicators
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_72>	Pr_70_75_70_72	Route indicators
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_70>	Pr_70_75_70_70	Rail gap indicator signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_78>	Pr_70_75_70_78	Semaphore subsidiary signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_77>	Pr_70_75_70_77	Semaphore signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_65>	Pr_70_75_70_65	Possession limit boards
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_80>	Pr_70_75_70_80	Signalling relays
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_64>	Pr_70_75_70_64	Position light signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_89>	Pr_70_75_70_89	Track circuits
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_63>	Pr_70_75_70_63	Points operating equipment
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_47>	Pr_70_75_70_47	Limit of shunt signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_62>	Pr_70_75_70_62	Points converter devices
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_76>	Pr_70_75_70_76	Semaphore disc signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_91>	Pr_70_75_70_91	Treadles
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_61>	Pr_70_75_70_61	Points detection equipment
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_06>	Pr_70_75_70_06	Banner repeater signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_03>	Pr_70_75_70_03	Automatic warning signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_07>	Pr_70_75_70_07	Balises
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_14>	Pr_70_75_70_14	Colour light signals
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_05>	Pr_70_75_70_05	Axle counters
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_41>	Pr_70_75_70_41	In-cab signalling displays
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_85>	Pr_70_75_80_85	Swimming timing controllers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_84>	Pr_70_75_80_84	Swimming race start sound generators
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_83>	Pr_70_75_80_83	Swimmers' touch pads
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_82>	Pr_70_75_80_82	Swimmers' starting blocks
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_48>	Pr_70_75_80_48	Lane manual push-buttons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_50>	Pr_70_75_80_50	Manual scoreboards
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_46>	Pr_70_75_80_46	Lane boxes
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_72>	Pr_70_75_80_72	Relay race break sensors
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_27>	Pr_70_75_80_27	Electronic scoreboards
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_80>	Pr_70_75_94_80	Static filament warning beacons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_58>	Pr_70_75_94_58	Overdoor indicator units
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_46>	Pr_70_75_94_46	LED warning beacons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_60>	Pr_70_75_94_60	Panel mounting indicator lights
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_29>	Pr_70_75_94_29	Flashing filament warning beacons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_99>	Pr_70_75_94_99	Xenon warning beacons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_73>	Pr_70_75_94_73	Rotating warning beacons
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_28>	Pr_70_75_94_28	Electronic sounders
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_27>	Pr_70_75_94_27	Electric doorbells
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_42>	Pr_70_75_94_42	Industrial bells
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_40>	Pr_70_75_94_40	Indicator lights
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_78>	Pr_70_75_94_78	Starting strobe lights
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_72>	Pr_70_75_52_72	Routers
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_96>	Pr_70_75_52_96	Wireless sensor nodes
+<https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_92>	Pr_70_75_52_92	USB gateway modems

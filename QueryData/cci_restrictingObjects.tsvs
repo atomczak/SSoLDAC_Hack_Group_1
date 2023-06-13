@@ -1,0 +1,46 @@
+?x	?code	?name
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-R__>	L-R__	Restricting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RN_>	L-RN_	Flow restrictor
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RU_>	L-RU_	Access restricting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RA_>	L-RA_	Electricity restricting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RL_>	L-RL_	Movement restricting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RB_>	L-RB_	Electricity stabilising object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RF_>	L-RF_	Signal stabilising object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RM_>	L-RM_	Return flow restricting object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQ_>	L-RQ_	Local climate stabilising object
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RND>	L-RND	Diffuser
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNC>	L-RNC	Soilds regulating valve
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNB>	L-RNB	Regulating damper
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RNA>	L-RNA	Regulating valve
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUF>	L-RUF	Bird mesh
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUE>	L-RUE	Rodent barrier
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUD>	L-RUD	Bollard
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUC>	L-RUC	Turnstile
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUB>	L-RUB	Movable barrier
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RUA>	L-RUA	Fence
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAC>	L-RAC	Resistor
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAB>	L-RAB	Reactor
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RAA>	L-RAA	Diode
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLA>	L-RLA	Security chain
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLD>	L-RLD	Speed bump
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLC>	L-RLC	Brake
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RLB>	L-RLB	Shock absorber
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBB>	L-RBB	Power filter
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBA>	L-RBA	Uninterrupted power supply
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBD>	L-RBD	Power equaliser
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RBC>	L-RBC	Phase compensator
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFB>	L-RFB	Signal filter
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RFA>	L-RFA	Signal equaliser
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMD>	L-RMD	Stench trap
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMC>	L-RMC	Flap
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMB>	L-RMB	Check damper
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RMA>	L-RMA	Non-return valve
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQG>	L-RQG	Shutter
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQF>	L-RQF	Louvered blind
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQE>	L-RQE	Curtain
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQD>	L-RQD	Screen
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQC>	L-RQC	Noise barrier
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQB>	L-RQB	Membrane
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQA>	L-RQA	Insulation
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQJ>	L-RQJ	Screen wall
+<https://identifier.buildingsmart.org/uri/molio/cciconstruction-1.0/class/L-RQH>	L-RQH	Weed control fabric

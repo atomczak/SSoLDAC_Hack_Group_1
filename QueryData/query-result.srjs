@@ -1,0 +1,1721 @@
+{
+  "head" : {
+    "vars" : [
+      "x",
+      "code",
+      "name"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Services and process outlet products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Communications products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Space heating and cooling products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Liquid and gas outlet products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Power and lighting outlet products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_65"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Air and fume outlet products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_50"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Solid waste disposal products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_04"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_04"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Audio, data and visual outlet plates and controllers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Telecoms equipment"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Road traffic and pedestrian control signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_01"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_01"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Aeronautical lighting products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_69"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Radio communications products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Rail signals, indicators and controls"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Sports timing and scoring equipment"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Visual and audible indicators"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_52"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Computer network products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_36"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_36"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Hearing and assisted listening products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_06"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_06"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Audio output devices"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_82"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_60_82"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Space heating fittings and equipment"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_37"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_60_37"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heat pumps"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_36"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_60_36"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Heat emitters"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_60_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Pavement heating products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_60_14"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_60_14"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Climatic beams and ceilings"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_51"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_51"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Medical gases outlets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_76"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_76"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Sewage treatment plant"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_33"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_33"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Gas and foam nozzles and sprinklers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_62"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_62"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Phase change outlet products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_58"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_58"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Oil and grease lubricant supply products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_98"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_98"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Water inlets and outlets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_42"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_42"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Irrigation water outlets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_97"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_97"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Water fire extinguishing outlets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_55_96"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_55_96"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Waste water outlets and plugs"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_48"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_70_48"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Luminaires, lighting track and lighting accessories"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_47"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_70_47"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Lighting controls and lighting distribution products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_46"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_70_46"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Lamps"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_70_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_70_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Rail power products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_04"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_65_04"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Air terminals and diffusers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_03"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_65_03"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Air conditioning units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_65_30"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_65_30"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Flues and chimneys"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_71"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_50_71"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Refuse disposal equipment"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_85"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_50_85"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Solid waste compactor products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_50_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_50_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Solid waste balers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_22"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_22"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Digital enhanced cordless telecommunications (DECT) telephone handsets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_21"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_21"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Data and telecom transient overvoltage surge suppression devices"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_89"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_89"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Telephone operator consoles"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_03"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_03"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Analogue telephone handsets"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_87"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_87"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Telephone extension ringers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_86"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_86"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Telephone distribution frames"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Payphones"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_01"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_01"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Acoustic hoods"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_83"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_83"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Telecommunications system controllers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_27"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_27"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Emergency roadside telephones"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_88_24"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_88_24"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Digital terminals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_94"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_94"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Variable message traffic signs"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_53"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_53"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Motorway signal mark 3"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_49"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_49"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Mass detectors"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_48"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_48"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Level crossing signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_07"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_07"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Belisha beacons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_22"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_22"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Detector loops"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_92"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_92"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Urban traffic management signs"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_51"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_51"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Motorway signal mark 1"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_50"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_50"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Motorway lane signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_89"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_89"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Transilluminated traffic bollards"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_87"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_87"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Traffic signal controller units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_61"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_61"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Pedestrian crossing signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Pedestrian signal controllers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_01"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_01"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Above-ground vehicle detection products"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_30"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_30"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Fixed vertical road traffic signs"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_99"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_99"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Wigwag signal control units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_98"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_98"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Wigwag signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_54"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_54"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Motorway signal mark 4"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_96"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_96"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Vehicular traffic signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_95"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_95"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Vehicle-activated signs"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_72_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_72_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Solar-powered illuminated bollards"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_69_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_69_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Radio base stations"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_90"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_90"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Train protection warning signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Platform repeaters"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_44"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_44"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Junction indicators"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_72"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_72"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Route indicators"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_70"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_70"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Rail gap indicator signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_78"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_78"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Semaphore subsidiary signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_77"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_77"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Semaphore signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_65"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_65"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Possession limit boards"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Signalling relays"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_64"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_64"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Position light signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_89"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_89"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Track circuits"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_63"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_63"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Points operating equipment"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_47"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_47"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Limit of shunt signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_62"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_62"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Points converter devices"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_76"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_76"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Semaphore disc signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_91"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_91"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Treadles"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_61"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_61"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Points detection equipment"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_06"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_06"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Banner repeater signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_03"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_03"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Automatic warning signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_07"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_07"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Balises"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_14"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_14"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Colour light signals"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_05"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_05"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Axle counters"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_70_41"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_70_41"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "In-cab signalling displays"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_85"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_85"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Swimming timing controllers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_84"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_84"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Swimming race start sound generators"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_83"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_83"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Swimmers' touch pads"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_82"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_82"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Swimmers' starting blocks"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_48"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_48"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Lane manual push-buttons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_50"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_50"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Manual scoreboards"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_46"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_46"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Lane boxes"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_72"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_72"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Relay race break sensors"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_80_27"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_80_27"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electronic scoreboards"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_80"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_80"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Static filament warning beacons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_58"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_58"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Overdoor indicator units"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_46"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_46"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "LED warning beacons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_60"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_60"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Panel mounting indicator lights"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_29"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_29"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Flashing filament warning beacons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_99"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_99"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Xenon warning beacons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_73"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_73"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Rotating warning beacons"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_28"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_28"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electronic sounders"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_27"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_27"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Electric doorbells"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_42"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_42"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Industrial bells"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_40"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_40"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Indicator lights"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_94_78"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_94_78"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Starting strobe lights"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_72"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_52_72"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Routers"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_96"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_52_96"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "Wireless sensor nodes"
+        }
+      },
+      {
+        "x" : {
+          "type" : "uri",
+          "value" : "https://identifier.buildingsmart.org/uri/nbs/uniclass2015-1/class/Pr_70_75_52_92"
+        },
+        "code" : {
+          "type" : "literal",
+          "value" : "Pr_70_75_52_92"
+        },
+        "name" : {
+          "type" : "literal",
+          "value" : "USB gateway modems"
+        }
+      }
+    ]
+  }
+}
